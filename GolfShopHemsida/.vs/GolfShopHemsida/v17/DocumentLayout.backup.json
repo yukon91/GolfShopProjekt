@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Marti\\OneDrive\\Desktop\\GruppProjektGolf - Copy (2)\\GolfShopHemsida\\",
+  "WorkspaceRootPath": "D:\\GruppProjektGolf\\GolfShopHemsida\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|c:\\users\\marti\\onedrive\\desktop\\gruppprojektgolf - copy (2)\\golfshophemsida\\golfshophemsida\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|d:\\gruppprojektgolf\\golfshophemsida\\golfshophemsida\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|solutionrelative:golfshophemsida\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|c:\\users\\marti\\onedrive\\desktop\\gruppprojektgolf - copy (2)\\golfshophemsida\\golfshophemsida\\pages\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|d:\\gruppprojektgolf\\golfshophemsida\\golfshophemsida\\pages\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|solutionrelative:golfshophemsida\\pages\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|c:\\users\\marti\\onedrive\\desktop\\gruppprojektgolf - copy (2)\\golfshophemsida\\golfshophemsida\\models\\golfshopuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|d:\\gruppprojektgolf\\golfshophemsida\\golfshophemsida\\models\\golfshopuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|solutionrelative:golfshophemsida\\models\\golfshopuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|c:\\users\\marti\\onedrive\\desktop\\gruppprojektgolf - copy (2)\\golfshophemsida\\golfshophemsida\\pages\\admin\\purchasehistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|d:\\gruppprojektgolf\\golfshophemsida\\golfshophemsida\\pages\\admin\\purchasehistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|solutionrelative:golfshophemsida\\pages\\admin\\purchasehistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|c:\\users\\marti\\onedrive\\desktop\\gruppprojektgolf - copy (2)\\golfshophemsida\\golfshophemsida\\pages\\admin\\purchasehistory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|d:\\gruppprojektgolf\\golfshophemsida\\golfshophemsida\\pages\\admin\\purchasehistory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|solutionrelative:golfshophemsida\\pages\\admin\\purchasehistory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|c:\\users\\marti\\onedrive\\desktop\\gruppprojektgolf - copy (2)\\golfshophemsida\\golfshophemsida\\pages\\admin\\adminuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|d:\\gruppprojektgolf\\golfshophemsida\\golfshophemsida\\pages\\admin\\adminuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|solutionrelative:golfshophemsida\\pages\\admin\\adminuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|c:\\users\\marti\\onedrive\\desktop\\gruppprojektgolf - copy (2)\\golfshophemsida\\golfshophemsida\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|d:\\gruppprojektgolf\\golfshophemsida\\golfshophemsida\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|solutionrelative:golfshophemsida\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -60,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "EditUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Desktop\\GruppProjektGolf - Copy (2)\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Admin\\EditUser.cshtml",
+              "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Admin\\EditUser.cshtml",
               "RelativeDocumentMoniker": "GolfShopHemsida\\Pages\\Admin\\EditUser.cshtml",
-              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Desktop\\GruppProjektGolf - Copy (2)\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Admin\\EditUser.cshtml",
+              "ToolTip": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Admin\\EditUser.cshtml",
               "RelativeToolTip": "GolfShopHemsida\\Pages\\Admin\\EditUser.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -72,9 +72,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "AdminUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Desktop\\GruppProjektGolf - Copy (2)\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Admin\\AdminUser.cshtml",
+              "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Admin\\AdminUser.cshtml",
               "RelativeDocumentMoniker": "GolfShopHemsida\\Pages\\Admin\\AdminUser.cshtml",
-              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Desktop\\GruppProjektGolf - Copy (2)\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Admin\\AdminUser.cshtml",
+              "ToolTip": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Admin\\AdminUser.cshtml",
               "RelativeToolTip": "GolfShopHemsida\\Pages\\Admin\\AdminUser.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -84,11 +84,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Desktop\\GruppProjektGolf - Copy (2)\\GolfShopHemsida\\GolfShopHemsida\\Data\\SeedData.cs",
+              "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Data\\SeedData.cs",
               "RelativeDocumentMoniker": "GolfShopHemsida\\Data\\SeedData.cs",
-              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Desktop\\GruppProjektGolf - Copy (2)\\GolfShopHemsida\\GolfShopHemsida\\Data\\SeedData.cs",
+              "ToolTip": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Data\\SeedData.cs",
               "RelativeToolTip": "GolfShopHemsida\\Data\\SeedData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T10:48:34.377Z",
               "EditorCaption": ""
@@ -97,9 +97,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Purchase.cs",
-              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Desktop\\GruppProjektGolf - Copy (2)\\GolfShopHemsida\\GolfShopHemsida\\Models\\Purchase.cs",
+              "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Models\\Purchase.cs",
               "RelativeDocumentMoniker": "GolfShopHemsida\\Models\\Purchase.cs",
-              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Desktop\\GruppProjektGolf - Copy (2)\\GolfShopHemsida\\GolfShopHemsida\\Models\\Purchase.cs",
+              "ToolTip": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Models\\Purchase.cs",
               "RelativeToolTip": "GolfShopHemsida\\Models\\Purchase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,9 +109,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "GolfShopUser.cs",
-              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Desktop\\GruppProjektGolf - Copy (2)\\GolfShopHemsida\\GolfShopHemsida\\Models\\GolfShopUser.cs",
+              "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Models\\GolfShopUser.cs",
               "RelativeDocumentMoniker": "GolfShopHemsida\\Models\\GolfShopUser.cs",
-              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Desktop\\GruppProjektGolf - Copy (2)\\GolfShopHemsida\\GolfShopHemsida\\Models\\GolfShopUser.cs",
+              "ToolTip": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Models\\GolfShopUser.cs",
               "RelativeToolTip": "GolfShopHemsida\\Models\\GolfShopUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,9 +121,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "PurchaseHistory.cshtml",
-              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Desktop\\GruppProjektGolf - Copy (2)\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Admin\\PurchaseHistory.cshtml",
+              "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Admin\\PurchaseHistory.cshtml",
               "RelativeDocumentMoniker": "GolfShopHemsida\\Pages\\Admin\\PurchaseHistory.cshtml",
-              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Desktop\\GruppProjektGolf - Copy (2)\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Admin\\PurchaseHistory.cshtml",
+              "ToolTip": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Admin\\PurchaseHistory.cshtml",
               "RelativeToolTip": "GolfShopHemsida\\Pages\\Admin\\PurchaseHistory.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -133,9 +133,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "PurchaseHistory.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Desktop\\GruppProjektGolf - Copy (2)\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Admin\\PurchaseHistory.cshtml.cs",
+              "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Admin\\PurchaseHistory.cshtml.cs",
               "RelativeDocumentMoniker": "GolfShopHemsida\\Pages\\Admin\\PurchaseHistory.cshtml.cs",
-              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Desktop\\GruppProjektGolf - Copy (2)\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Admin\\PurchaseHistory.cshtml.cs",
+              "ToolTip": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Admin\\PurchaseHistory.cshtml.cs",
               "RelativeToolTip": "GolfShopHemsida\\Pages\\Admin\\PurchaseHistory.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

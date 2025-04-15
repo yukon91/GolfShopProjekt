@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GolfShopHemsida")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+074455763a127ee4094a2a51174daf16ada765b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64ae6a87f6de89012b283bb32551822f4f50c1ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("GolfShopHemsida")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GolfShopHemsida")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
