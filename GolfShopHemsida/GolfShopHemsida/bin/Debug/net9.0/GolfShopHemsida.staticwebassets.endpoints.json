@@ -9078,6 +9078,88 @@
       ]
     },
     {
+      "Route": "Images/Profile_Pictures/7931bf83-0b1a-4140-a04b-e8cbb4a93d34.png",
+      "AssetFile": "Images/Profile_Pictures/7931bf83-0b1a-4140-a04b-e8cbb4a93d34.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zbwZKicEOO8DfTyWBkKRqE9vxW0ECgtY3dvmhTRKOGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 13:11:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zbwZKicEOO8DfTyWBkKRqE9vxW0ECgtY3dvmhTRKOGo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Profile_Pictures/7931bf83-0b1a-4140-a04b-e8cbb4a93d34.xzkm16f9qt.png",
+      "AssetFile": "Images/Profile_Pictures/7931bf83-0b1a-4140-a04b-e8cbb4a93d34.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zbwZKicEOO8DfTyWBkKRqE9vxW0ECgtY3dvmhTRKOGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 13:11:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xzkm16f9qt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zbwZKicEOO8DfTyWBkKRqE9vxW0ECgtY3dvmhTRKOGo="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Profile_Pictures/7931bf83-0b1a-4140-a04b-e8cbb4a93d34.png"
+        }
+      ]
+    },
+    {
       "Route": "Images/Shop/Callaway-Pro-mens.h6asgrg7r4.jpg",
       "AssetFile": "Images/Shop/Callaway-Pro-mens.jpg",
       "Selectors": [],

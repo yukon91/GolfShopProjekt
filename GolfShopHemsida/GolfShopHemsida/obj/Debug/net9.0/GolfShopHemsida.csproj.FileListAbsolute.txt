@@ -3008,10 +3008,10 @@ C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\
 C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.GolfShopHemsida.props
 C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.GolfShopHemsida.props
 C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\GolfShop.5D844F73.Up2Date
 C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\GolfShopHemsida.dll
 C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\refint\GolfShopHemsida.dll
 C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\GolfShopHemsida.pdb
 C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\GolfShopHemsida.genruntimeconfig.cache
 C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\ref\GolfShopHemsida.dll
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

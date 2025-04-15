@@ -7,6 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Migrations\20250402145805_InitialCreate.cs" />
+    <Compile Remove="Migrations\20250402145805_InitialCreate.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Remove="wwwroot\css\ShopCSS\bag.jpg" />
     <Content Remove="wwwroot\css\ShopCSS\bg.jpg" />
     <Content Remove="wwwroot\css\ShopCSS\bridgestone.jpg" />

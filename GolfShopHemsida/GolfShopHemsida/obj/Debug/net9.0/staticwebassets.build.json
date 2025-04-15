@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "edBl6o/CUJvp8A9Ayt7a1fSMPrCpkdxcEQyJ1Mew3DE=",
+  "Hash": "Q0L2/qcdw4qskLE5IME2vK6kYKi+gKyWZKTVztx2jx4=",
   "Source": "GolfShopHemsida",
   "BasePath": "_content/GolfShopHemsida",
   "Mode": "Default",
@@ -4362,6 +4362,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Profile_Pictures\\52bd35dc-3fef-4101-bcd8-24592315c000.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Profile_Pictures\\7931bf83-0b1a-4140-a04b-e8cbb4a93d34.png",
+      "SourceId": "GolfShopHemsida",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\",
+      "BasePath": "_content/GolfShopHemsida",
+      "RelativePath": "Images/Profile_Pictures/7931bf83-0b1a-4140-a04b-e8cbb4a93d34#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xzkm16f9qt",
+      "Integrity": "zbwZKicEOO8DfTyWBkKRqE9vxW0ECgtY3dvmhTRKOGo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Profile_Pictures\\7931bf83-0b1a-4140-a04b-e8cbb4a93d34.png"
     },
     {
       "Identity": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\bag.jpg",
@@ -17617,6 +17638,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-/PxHqULtKxEo5R3p+H/jfb5KExVlmiQxfNVciFZqlT0="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Profile_Pictures/7931bf83-0b1a-4140-a04b-e8cbb4a93d34.png",
+      "AssetFile": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Profile_Pictures\\7931bf83-0b1a-4140-a04b-e8cbb4a93d34.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zbwZKicEOO8DfTyWBkKRqE9vxW0ECgtY3dvmhTRKOGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 13:11:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zbwZKicEOO8DfTyWBkKRqE9vxW0ECgtY3dvmhTRKOGo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Profile_Pictures/7931bf83-0b1a-4140-a04b-e8cbb4a93d34.xzkm16f9qt.png",
+      "AssetFile": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Profile_Pictures\\7931bf83-0b1a-4140-a04b-e8cbb4a93d34.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zbwZKicEOO8DfTyWBkKRqE9vxW0ECgtY3dvmhTRKOGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 13:11:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xzkm16f9qt"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Profile_Pictures/7931bf83-0b1a-4140-a04b-e8cbb4a93d34.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zbwZKicEOO8DfTyWBkKRqE9vxW0ECgtY3dvmhTRKOGo="
         }
       ]
     },

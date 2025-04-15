@@ -13,6 +13,8 @@ public class AppDbContext : IdentityDbContext<GolfShopUser>
     public DbSet<Post> Posts { get; set; }
     public DbSet<Comment> Comments { get; set; }
 
+    public DbSet<Item> Items { get; set; }
+
     public DbSet<Purchase> Purchases { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -33,6 +35,10 @@ public class AppDbContext : IdentityDbContext<GolfShopUser>
 
         modelBuilder.Entity<Post>()
             .Property(p => p.PostId)
+            .HasMaxLength(450);
+
+        modelBuilder.Entity<Item>()
+            .Property(i => i.ItemId)
             .HasMaxLength(450);
     }
 }

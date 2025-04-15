@@ -132,6 +132,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s8ke3fysi0"},{"Name":"integrity","Value":"sha256-/PxHqULtKxEo5R3p\u002BH/jfb5KExVlmiQxfNVciFZqlT0="},{"Name":"label","Value":"_content/GolfShopHemsida/Images/Profile_Pictures/52bd35dc-3fef-4101-bcd8-24592315c000.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"169351"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022/PxHqULtKxEo5R3p\u002BH/jfb5KExVlmiQxfNVciFZqlT0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 13:02:16 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GolfShopHemsida/Images/Profile_Pictures/7931bf83-0b1a-4140-a04b-e8cbb4a93d34.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Profile_Pictures\7931bf83-0b1a-4140-a04b-e8cbb4a93d34.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zbwZKicEOO8DfTyWBkKRqE9vxW0ECgtY3dvmhTRKOGo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"17743"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022zbwZKicEOO8DfTyWBkKRqE9vxW0ECgtY3dvmhTRKOGo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 13:11:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GolfShopHemsida/Images/Profile_Pictures/7931bf83-0b1a-4140-a04b-e8cbb4a93d34.xzkm16f9qt.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Profile_Pictures\7931bf83-0b1a-4140-a04b-e8cbb4a93d34.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xzkm16f9qt"},{"Name":"integrity","Value":"sha256-zbwZKicEOO8DfTyWBkKRqE9vxW0ECgtY3dvmhTRKOGo="},{"Name":"label","Value":"_content/GolfShopHemsida/Images/Profile_Pictures/7931bf83-0b1a-4140-a04b-e8cbb4a93d34.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"17743"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022zbwZKicEOO8DfTyWBkKRqE9vxW0ECgtY3dvmhTRKOGo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 13:11:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GolfShopHemsida/Images/Shop/bag.e1ja0isl7d.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\bag.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
