@@ -1,375 +1,375 @@
 {
   "Files": [
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GolfShopHemsida.bundle.scp.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GolfShopHemsida.bundle.scp.css",
       "PackagePath": "staticwebassets\\GolfShopHemsida.iql7c1xuda.bundle.scp.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Bakgrund\\bg.jpg",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Bakgrund\\bg.jpg",
       "PackagePath": "staticwebassets\\Images\\Bakgrund\\bg.jpg"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Bakgrund\\golf.png",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Bakgrund\\golf.png",
       "PackagePath": "staticwebassets\\Images\\Bakgrund\\golf.png"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Profile_Pictures\\52bd35dc-3fef-4101-bcd8-24592315c000.jpg",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Profile_Pictures\\52bd35dc-3fef-4101-bcd8-24592315c000.jpg",
       "PackagePath": "staticwebassets\\Images\\Profile_Pictures\\52bd35dc-3fef-4101-bcd8-24592315c000.jpg"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\Callaway-Pro-mens.jpg",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\Callaway-Pro-mens.jpg",
       "PackagePath": "staticwebassets\\Images\\Shop\\Callaway-Pro-mens.jpg"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\Callaway-golfset.png",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\Callaway-golfset.png",
       "PackagePath": "staticwebassets\\Images\\Shop\\Callaway-golfset.png"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\Callaway-pro.jpg",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\Callaway-pro.jpg",
       "PackagePath": "staticwebassets\\Images\\Shop\\Callaway-pro.jpg"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\Drivers.png",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\Drivers.png",
       "PackagePath": "staticwebassets\\Images\\Shop\\Drivers.png"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\FAIRWAY-WOODS.png",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\FAIRWAY-WOODS.png",
       "PackagePath": "staticwebassets\\Images\\Shop\\FAIRWAY-WOODS.png"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\Golfset-barn.png",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\Golfset-barn.png",
       "PackagePath": "staticwebassets\\Images\\Shop\\Golfset-barn.png"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\PUTTER.png",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\PUTTER.png",
       "PackagePath": "staticwebassets\\Images\\Shop\\PUTTER.png"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\WEDGAR.jpg",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\WEDGAR.jpg",
       "PackagePath": "staticwebassets\\Images\\Shop\\WEDGAR.jpg"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\X-LZR-womens-set.jpg",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\X-LZR-womens-set.jpg",
       "PackagePath": "staticwebassets\\Images\\Shop\\X-LZR-womens-set.jpg"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\bag.jpg",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\bag.jpg",
       "PackagePath": "staticwebassets\\Images\\Shop\\bag.jpg"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\bg.jpg",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\bg.jpg",
       "PackagePath": "staticwebassets\\Images\\Shop\\bg.jpg"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\bridgestone.jpg",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\bridgestone.jpg",
       "PackagePath": "staticwebassets\\Images\\Shop\\bridgestone.jpg"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\callaway.png",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\callaway.png",
       "PackagePath": "staticwebassets\\Images\\Shop\\callaway.png"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\golf.png",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\golf.png",
       "PackagePath": "staticwebassets\\Images\\Shop\\golf.png"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\handskar.png",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\handskar.png",
       "PackagePath": "staticwebassets\\Images\\Shop\\handskar.png"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\mätare.jpg",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\mätare.jpg",
       "PackagePath": "staticwebassets\\Images\\Shop\\mätare.jpg"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\pinnacle.jpg",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\pinnacle.jpg",
       "PackagePath": "staticwebassets\\Images\\Shop\\pinnacle.jpg"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\shopping-cart.png",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\shopping-cart.png",
       "PackagePath": "staticwebassets\\Images\\Shop\\shopping-cart.png"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\tees.jpg",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\tees.jpg",
       "PackagePath": "staticwebassets\\Images\\Shop\\tees.jpg"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\titleist.jpg",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\Images\\Shop\\titleist.jpg",
       "PackagePath": "staticwebassets\\Images\\Shop\\titleist.jpg"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\ForgotPasswordCSS\\forgotpassword.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\ForgotPasswordCSS\\forgotpassword.css",
       "PackagePath": "staticwebassets\\css\\ForgotPasswordCSS\\forgotpassword.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\ForumCSS\\forum.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\ForumCSS\\forum.css",
       "PackagePath": "staticwebassets\\css\\ForumCSS\\forum.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\LoginCSS\\login.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\LoginCSS\\login.css",
       "PackagePath": "staticwebassets\\css\\LoginCSS\\login.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\MemberCSS\\member.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\MemberCSS\\member.css",
       "PackagePath": "staticwebassets\\css\\MemberCSS\\member.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\RegisterCSS\\register.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\RegisterCSS\\register.css",
       "PackagePath": "staticwebassets\\css\\RegisterCSS\\register.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\js\\RegisterConfirmation.js",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\js\\RegisterConfirmation.js",
       "PackagePath": "staticwebassets\\js\\RegisterConfirmation.js"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Id": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Id": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
