@@ -1,68 +1,68 @@
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.js
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery\dist\jquery.slim.min.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery\dist\jquery.js
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\css\ForumCSS\forum.css
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery\LICENSE.txt
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\js\RegisterConfirmation.js
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\css\site.css
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\css\MemberCSS\member.css
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery\dist\jquery.min.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery\dist\jquery.min.js
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\css\LoginCSS\login.css
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\css\RegisterCSS\register.css
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery-validation\dist\jquery.validate.js
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery-validation\dist\additional-methods.js
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery\dist\jquery.slim.js
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\css\ForgotPasswordCSS\forgotpassword.css
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\favicon.ico
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\js\site.js
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery\dist\jquery.slim.min.js
-C:\Users\Marti\OneDrive\Desktop\GruppProjektGolf - Copy (2)\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\css\ForumCSS\forum.css
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\js\RegisterConfirmation.js
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\css\site.css
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\css\MemberCSS\member.css
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\css\LoginCSS\login.css
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\css\RegisterCSS\register.css
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\css\ForgotPasswordCSS\forgotpassword.css
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\favicon.ico
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\js\site.js
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\wwwroot\lib\jquery-validation\LICENSE.md
