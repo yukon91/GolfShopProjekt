@@ -12,6 +12,8 @@ public class AppDbContext : IdentityDbContext<GolfShopUser>
 
     public DbSet<Post> Posts { get; set; }
     public DbSet<Comment> Comments { get; set; }
+    public DbSet<FollowUser> FollowUsers { get; set; }
+    public DbSet<UserActivities> UserActivities { get; set; }
 
     public DbSet<Purchase> Purchases { get; set; }
 
@@ -34,5 +36,20 @@ public class AppDbContext : IdentityDbContext<GolfShopUser>
         modelBuilder.Entity<Post>()
             .Property(p => p.PostId)
             .HasMaxLength(450);
+
+        modelBuilder.Entity<FollowUser>()
+            .HasKey(f => new { f.FollowerId, f.FollowedId }); 
+
+        modelBuilder.Entity<FollowUser>()
+            .HasOne(f => f.Follower)
+            .WithMany()
+            .HasForeignKey(f => f.FollowerId)
+            .OnDelete(DeleteBehavior.Restrict);
+
+        modelBuilder.Entity<FollowUser>()
+            .HasOne(f => f.Followed)
+            .WithMany()
+            .HasForeignKey(f => f.FollowedId)
+            .OnDelete(DeleteBehavior.Restrict);
     }
 }

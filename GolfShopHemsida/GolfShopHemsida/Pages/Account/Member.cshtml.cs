@@ -6,8 +6,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pages.Manage;
-using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace GolfShopHemsida.Pages.Account
 {
@@ -16,11 +15,13 @@ namespace GolfShopHemsida.Pages.Account
     {
         private readonly UserManager<GolfShopUser> _userManager;
         private readonly SignInManager<GolfShopUser> _signInManager;
+        private readonly AppDbContext _context;
 
-        public MemberModel(UserManager<GolfShopUser> userManager, SignInManager<GolfShopUser> signInManager)
+        public MemberModel(UserManager<GolfShopUser> userManager, SignInManager<GolfShopUser> signInManager, AppDbContext context)
         {
             _userManager = userManager;
-            _signInManager = signInManager; 
+            _signInManager = signInManager;
+            _context = context;
         }
 
         [BindProperty]
@@ -31,10 +32,14 @@ namespace GolfShopHemsida.Pages.Account
         public string? Namn { get; set; }
         [BindProperty]
         public string? Adress { get; set; }
-        [BindProperty]
         public string? Email { get; set; }
         [BindProperty]
         public string? Betalsätt { get; set; }
+
+        public List<UserActivities> Notifications { get; set; } = new List<UserActivities>();
+        public List<GolfShopUser> OtherUsers { get; set; } = new List<GolfShopUser>();
+        public List<FollowUser> Followers { get; set; } = new List<FollowUser>();
+        public List<FollowUser> Following { get; set; } = new List<FollowUser>();
 
         public async Task<IActionResult> OnGetAsync()
         {
@@ -43,6 +48,25 @@ namespace GolfShopHemsida.Pages.Account
             {
                 return RedirectToPage("/Identity/Account/Login");
             }
+
+            var allUsers = _userManager.Users.Where(u => u.Id != user.Id).ToList();
+            OtherUsers = new List<GolfShopUser>();
+
+            foreach (var u in allUsers)
+            {
+                if (!await _userManager.IsInRoleAsync(u, "Admin"))
+                {
+                    OtherUsers.Add(u);
+                }
+            }
+
+            Followers = _context.FollowUsers.Where(f => f.FollowedId == user.Id).ToList();
+            Following = _context.FollowUsers.Where(f => f.FollowerId == user.Id).ToList();
+
+            Notifications = await _context.UserActivities
+                .Where(n => n.ReceiverId == user.Id && !n.IsRead)
+                .OrderByDescending(n => n.CreatedAt)
+                .ToListAsync();
 
             Namn = user.Namn;
             Adress = user.Adress;
@@ -85,11 +109,61 @@ namespace GolfShopHemsida.Pages.Account
             return RedirectToPage();
         }
 
+        public async Task<IActionResult> OnPostFollowAsync(string followId)
+        {
+            var user = await _userManager.GetUserAsync(User);
+            if (user == null || followId == null)
+            {
+                return RedirectToPage("/Identity/Account/Login");
+            }
+
+            if (user.Id == followId)
+            {
+                return RedirectToPage();
+            }
+
+            var existingFollow = _context.FollowUsers
+                .FirstOrDefault(f => f.FollowerId == user.Id && f.FollowedId == followId);
+
+            if (existingFollow == null)
+            {
+                var followUser = new FollowUser
+                {
+                    FollowerId = user.Id,
+                    FollowedId = followId
+                };
+
+                _context.FollowUsers.Add(followUser);
+                await _context.SaveChangesAsync();
+            }
+
+            return RedirectToPage();
+        }
+
+        public async Task<IActionResult> OnPostUnfollowAsync(string followId)
+        {
+            var user = await _userManager.GetUserAsync(User);
+            if (user == null || followId == null)
+            {
+                return RedirectToPage("/Identity/Account/Login");
+            }
+
+            var follow = _context.FollowUsers
+                .FirstOrDefault(f => f.FollowerId == user.Id && f.FollowedId == followId);
+
+            if (follow != null)
+            {
+                _context.FollowUsers.Remove(follow);
+                await _context.SaveChangesAsync();
+            }
+
+            return RedirectToPage();
+        }
+
         public async Task<IActionResult> OnPostLogOutAsync()
         {
             await _signInManager.SignOutAsync();
             return RedirectToPage("/Account/Login", new { area = "Identity" });
         }
-
     }
 }
