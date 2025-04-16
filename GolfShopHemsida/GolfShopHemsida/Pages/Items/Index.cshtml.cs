@@ -1,22 +1,16 @@
 using GolfShopHemsida.Models;
 using GolfShopHemsida.Repositories;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using System.ComponentModel.DataAnnotations;
 
-namespace GolfShopHemsida.Pages
+namespace GolfShopHemsida.Pages.Items
 {
-    public class ShopModel : PageModel
+    public class IndexModel : PageModel
     {
-        //private readonly ShoppingCartService _cartService;
         private readonly ItemRepository _itemRepository;
 
-        
-        public ShopModel(ItemRepository itemRepository)
+        public IndexModel(ItemRepository itemRepository)
         {
-            
             _itemRepository = itemRepository;
-            Items = new List<Item>();
         }
 
         public List<Item> Items { get; set; }
@@ -25,6 +19,5 @@ namespace GolfShopHemsida.Pages
         {
             Items = await _itemRepository.GetAllItemsAsync();
         }
-
     }
 }
