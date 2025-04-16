@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -18,6 +19,7 @@ namespace GolfShopHemsida.Models
 
         public string ProductName { get; set; }
 
+        [Precision(18, 2)]
         public decimal TotalAmount { get; set; }
     }
 

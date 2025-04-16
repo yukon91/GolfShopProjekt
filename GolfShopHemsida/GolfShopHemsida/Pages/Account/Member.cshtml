@@ -75,10 +75,49 @@
                     <a id="link-button" asp-page="/Account/Forum/GolfRelaterat">Golf relaterat</a>
                     <a id="link-button" asp-page="/Account/Forum/Ovrigt">Övriga ämnen</a>
                     <a id="link-button" asp-page="/Account/Forum/Evenemang">Evenemang</a>
-                </div>
+                </div>               
                 <form method="post" asp-page-handler="LogOut">
                     <button class="bg-warning" id="logout" type="submit">Logga ut</button>
                 </form>
+
+                <h2 class="text-center text-white">Medlemmar</h2>
+                <div class="user-container">
+                    @foreach (var user in Model.OtherUsers)
+                    {
+                        <div class="user-info">
+                            <p>@user.Namn</p>
+
+                            @if (Model.Notifications.Any(n => n.ReceiverId == user.Id))
+                            {
+                                <div class="notifications">
+                                    <h4>Notifikationer</h4>
+                                    <ul class="notification-list">
+                                        @foreach (var notification in Model.Notifications.Where(n => n.ReceiverId == user.Id))
+                                        {
+                                            <li class="notification-item">
+                                                <p>@notification.Message</p>
+                                                <small>Sent: @notification.CreatedAt.ToString("g")</small>
+                                            </li>
+                                        }
+                                    </ul>
+                                </div>
+                            }
+
+                            @if (Model.Following.Any(f => f.FollowedId == user.Id))
+                            {
+                                <form method="post" asp-page-handler="Unfollow" asp-route-followId="@user.Id">
+                                    <button type="submit" class="unfollow-button">Avfölja</button>
+                                </form>
+                            }
+                            else
+                            {
+                                <form method="post" asp-page-handler="Follow" asp-route-followId="@user.Id">
+                                    <button type="submit" class="follow-button">Följ</button>
+                                </form>
+                            }
+                        </div>
+                    }
+                </div>
             </div>           
         </div>
     </main>

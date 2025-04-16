@@ -19,6 +19,7 @@ namespace GolfShopHemsida.Pages.Account.Forum
             _userManager = userManager;
         }
 
+        public List<UserActivities> Notifications { get; set; }
         public List<Post> Threads { get; set; }
         public string CurrentUserId { get; set; }
 
@@ -35,12 +36,18 @@ namespace GolfShopHemsida.Pages.Account.Forum
                 .Where(p => p.Category == "Ovrigt")
                 .ToListAsync();
 
+            Notifications = await _context.UserActivities
+                .Where(n => n.ReceiverId == currentUser.Id && !n.IsRead)
+                .OrderByDescending(n => n.CreatedAt)
+                .ToListAsync();
+
             return Page();
         }
 
-        // Creat new post
+        // Creat new post and let followers know
         public async Task<IActionResult> OnPostCreatePostAsync(string title, string content)
         {
+
             var currentUser = await _userManager.GetUserAsync(User);
 
             var post = new Post
@@ -53,6 +60,28 @@ namespace GolfShopHemsida.Pages.Account.Forum
             };
 
             _context.Posts.Add(post);
+            await _context.SaveChangesAsync();
+
+            var followers = await _context.FollowUsers
+                .Where(f => f.FollowedId == currentUser.Id)
+                .Select(f => f.FollowerId)
+                .ToListAsync();
+
+            foreach (var followerId in followers)
+            {
+                var follower = await _userManager.FindByIdAsync(followerId);
+                var activity = new UserActivities
+                {
+                    ReceiverId = followerId,
+                    Message = $"{currentUser.Namn} created a new post: {title}",
+                    PostId = post.PostId,
+                    CreatedAt = DateTime.Now,
+                    IsRead = false
+                };
+
+                _context.UserActivities.Add(activity);
+            }
+
             await _context.SaveChangesAsync();
 
             return RedirectToPage();
@@ -74,6 +103,11 @@ namespace GolfShopHemsida.Pages.Account.Forum
             {
                 return Forbid();
             }
+
+            var userActivities = _context.UserActivities
+                .Where(ua => ua.PostId == post.PostId);
+
+            _context.UserActivities.RemoveRange(userActivities);
 
             _context.Posts.Remove(post);
             await _context.SaveChangesAsync();
