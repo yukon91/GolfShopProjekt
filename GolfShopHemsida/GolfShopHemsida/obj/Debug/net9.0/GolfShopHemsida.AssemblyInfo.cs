@@ -15,15 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GolfShopHemsida")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cacff53aa0e2c0ae2c92e3e7cb25a8a1c17b6841")]
-=======
-<<<<<<< Updated upstream
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94855c7e7a7fe5dd92f555f4cc55e55a0383f6a4")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e68c34701a8787e10a0b1ac1f5d94c754e344c6")]
->>>>>>> Stashed changes
->>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aadecc9bfceea6cf85dd4d0e2f499b67ed704b85")]
 [assembly: System.Reflection.AssemblyProductAttribute("GolfShopHemsida")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GolfShopHemsida")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
