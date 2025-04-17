@@ -11,8 +11,13 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace GolfShopHemsida.Migrations
 {
     [DbContext(typeof(AppDbContext))]
+<<<<<<<< HEAD:GolfShopHemsida/GolfShopHemsida/Migrations/20250416111749_MergeUpdate.Designer.cs
     [Migration("20250416111749_MergeUpdate")]
     partial class MergeUpdate
+========
+    [Migration("20250416152502_InitialCreate")]
+    partial class InitialCreate
+>>>>>>>> c60398799e5f96415e34fe3e1f9d7b87643fd63e:GolfShopHemsida/GolfShopHemsida/Migrations/20250416152502_InitialCreate.Designer.cs
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -23,6 +28,31 @@ namespace GolfShopHemsida.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+
+            modelBuilder.Entity("GolfShopHemsida.Models.CartItem", b =>
+                {
+                    b.Property<string>("CartItemId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("ItemId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<int>("Quantity")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ShoppingCartId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("CartItemId");
+
+                    b.HasIndex("ItemId");
+
+                    b.HasIndex("ShoppingCartId");
+
+                    b.ToTable("CartItems");
+                });
 
             modelBuilder.Entity("GolfShopHemsida.Models.Comment", b =>
                 {
@@ -181,6 +211,64 @@ namespace GolfShopHemsida.Migrations
                     b.ToTable("Items");
                 });
 
+            modelBuilder.Entity("GolfShopHemsida.Models.Order", b =>
+                {
+                    b.Property<string>("OrderId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("GolfShopUserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("OrderDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Status")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<decimal>("TotalAmount")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("OrderId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Orders");
+                });
+
+            modelBuilder.Entity("GolfShopHemsida.Models.OrderItem", b =>
+                {
+                    b.Property<string>("OrderItemId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("ItemId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("OrderId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<int>("Quantity")
+                        .HasColumnType("int");
+
+                    b.Property<decimal>("UnitPrice")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.HasKey("OrderItemId");
+
+                    b.HasIndex("ItemId");
+
+                    b.HasIndex("OrderId");
+
+                    b.ToTable("OrderItems");
+                });
+
             modelBuilder.Entity("GolfShopHemsida.Models.Post", b =>
                 {
                     b.Property<string>("PostId")
@@ -213,7 +301,26 @@ namespace GolfShopHemsida.Migrations
                     b.ToTable("Posts");
                 });
 
-            modelBuilder.Entity("GolfShopHemsida.Models.Purchase", b =>
+            modelBuilder.Entity("GolfShopHemsida.Models.ShoppingCart", b =>
+                {
+                    b.Property<string>("ShoppingCartId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("ShoppingCartId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("ShoppingCarts");
+                });
+
+            modelBuilder.Entity("GolfShopHemsida.Models.UserActivities", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -221,26 +328,41 @@ namespace GolfShopHemsida.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("GolfShopUserId")
-                        .IsRequired()
+                    b.Property<string>("CommentId")
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<string>("ProductName")
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<bool>("IsRead")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Message")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<DateTime>("PurchaseDate")
-                        .HasColumnType("datetime2");
+                    b.Property<string>("PostId")
+                        .HasColumnType("nvarchar(450)");
 
+<<<<<<<< HEAD:GolfShopHemsida/GolfShopHemsida/Migrations/20250416111749_MergeUpdate.Designer.cs
                     b.Property<decimal>("TotalAmount")
                         .HasPrecision(18, 2)
                         .HasColumnType("decimal(18,2)");
+========
+                    b.Property<string>("ReceiverId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+>>>>>>>> c60398799e5f96415e34fe3e1f9d7b87643fd63e:GolfShopHemsida/GolfShopHemsida/Migrations/20250416152502_InitialCreate.Designer.cs
 
                     b.HasKey("Id");
 
-                    b.HasIndex("GolfShopUserId");
+                    b.HasIndex("CommentId");
 
-                    b.ToTable("Purchases");
+                    b.HasIndex("PostId");
+
+                    b.HasIndex("ReceiverId");
+
+                    b.ToTable("UserActivities");
                 });
 
             modelBuilder.Entity("GolfShopHemsida.Models.UserActivities", b =>
@@ -415,6 +537,25 @@ namespace GolfShopHemsida.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("GolfShopHemsida.Models.CartItem", b =>
+                {
+                    b.HasOne("GolfShopHemsida.Models.Item", "Item")
+                        .WithMany()
+                        .HasForeignKey("ItemId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("GolfShopHemsida.Models.ShoppingCart", "ShoppingCart")
+                        .WithMany("CartItems")
+                        .HasForeignKey("ShoppingCartId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Item");
+
+                    b.Navigation("ShoppingCart");
+                });
+
             modelBuilder.Entity("GolfShopHemsida.Models.Comment", b =>
                 {
                     b.HasOne("GolfShopHemsida.Models.GolfShopUser", "User")
@@ -457,6 +598,39 @@ namespace GolfShopHemsida.Migrations
                     b.Navigation("Follower");
                 });
 
+<<<<<<<< HEAD:GolfShopHemsida/GolfShopHemsida/Migrations/20250416111749_MergeUpdate.Designer.cs
+========
+            modelBuilder.Entity("GolfShopHemsida.Models.Order", b =>
+                {
+                    b.HasOne("GolfShopHemsida.Models.GolfShopUser", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("GolfShopHemsida.Models.OrderItem", b =>
+                {
+                    b.HasOne("GolfShopHemsida.Models.Item", "Item")
+                        .WithMany()
+                        .HasForeignKey("ItemId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("GolfShopHemsida.Models.Order", "Order")
+                        .WithMany("OrderItems")
+                        .HasForeignKey("OrderId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Item");
+
+                    b.Navigation("Order");
+                });
+
+>>>>>>>> c60398799e5f96415e34fe3e1f9d7b87643fd63e:GolfShopHemsida/GolfShopHemsida/Migrations/20250416152502_InitialCreate.Designer.cs
             modelBuilder.Entity("GolfShopHemsida.Models.Post", b =>
                 {
                     b.HasOne("GolfShopHemsida.Models.GolfShopUser", "User")
@@ -468,11 +642,11 @@ namespace GolfShopHemsida.Migrations
                     b.Navigation("User");
                 });
 
-            modelBuilder.Entity("GolfShopHemsida.Models.Purchase", b =>
+            modelBuilder.Entity("GolfShopHemsida.Models.ShoppingCart", b =>
                 {
                     b.HasOne("GolfShopHemsida.Models.GolfShopUser", "User")
                         .WithMany()
-                        .HasForeignKey("GolfShopUserId")
+                        .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
@@ -560,9 +734,19 @@ namespace GolfShopHemsida.Migrations
                     b.Navigation("Posts");
                 });
 
+            modelBuilder.Entity("GolfShopHemsida.Models.Order", b =>
+                {
+                    b.Navigation("OrderItems");
+                });
+
             modelBuilder.Entity("GolfShopHemsida.Models.Post", b =>
                 {
                     b.Navigation("Comments");
+                });
+
+            modelBuilder.Entity("GolfShopHemsida.Models.ShoppingCart", b =>
+                {
+                    b.Navigation("CartItems");
                 });
 #pragma warning restore 612, 618
         }

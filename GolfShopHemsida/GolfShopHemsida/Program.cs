@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using GolfShopHemsida.Models;
 using GolfShopHemsida.Data;
 using GolfShopHemsida.Repositories;
+using GolfShopHemsida.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,6 +20,9 @@ builder.Services.AddIdentity<GolfShopUser, IdentityRole>()
 builder.Services.AddTransient<Microsoft.AspNetCore.Identity.UI.Services.IEmailSender, DummyEmailSender>();
 
 builder.Services.AddScoped<ItemRepository>();
+
+builder.Services.AddHttpContextAccessor();
+builder.Services.AddScoped<ShoppingCartService>();
 
 
 var app = builder.Build();
