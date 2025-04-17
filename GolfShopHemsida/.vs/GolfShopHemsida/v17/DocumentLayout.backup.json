@@ -3,40 +3,14 @@
   "WorkspaceRootPath": "D:\\GruppProjektGolf\\GolfShopHemsida\\",
   "Documents": [
     {
-<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.Design.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 18884e6bfcff342922d68b48786cc9635e744b9c
       "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|d:\\gruppprojektgolf\\golfshophemsida\\golfshophemsida\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|solutionrelative:golfshophemsida\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|d:\\gruppprojektgolf\\golfshophemsida\\golfshophemsida\\pages\\account\\orders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-<<<<<<< HEAD
-=======
-=======
-<<<<<<< Updated upstream
-      "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|c:\\users\\oscar\\documents\\github\\golfshopprojekt\\golfshophemsida\\golfshophemsida\\pages\\account\\orders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|solutionrelative:golfshophemsida\\pages\\account\\orders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\Migrations\\20250417103119_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GolfShopHemsida\\Migrations\\20250417103119_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> Stashed changes
-    },
-    {
->>>>>>> aadecc9bfceea6cf85dd4d0e2f499b67ed704b85
-      "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|c:\\users\\oscar\\documents\\github\\golfshopprojekt\\golfshophemsida\\golfshophemsida\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|solutionrelative:golfshophemsida\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|c:\\users\\oscar\\documents\\github\\golfshopprojekt\\golfshophemsida\\golfshophemsida\\pages\\account\\orders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
->>>>>>> 18884e6bfcff342922d68b48786cc9635e744b9c
       "RelativeMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|solutionrelative:golfshophemsida\\pages\\account\\orders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -102,20 +76,11 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-              "DocumentIndex": 1,
-=======
-<<<<<<< HEAD
-              "DocumentIndex": 1,
-=======
->>>>>>> 18884e6bfcff342922d68b48786cc9635e744b9c
               "DocumentIndex": 0,
               "Title": "Microsoft.NET.Sdk.StaticWebAssets.Design.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.Design.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.Design.targets",
-              "ViewState": "AgIAAAsAAAAAAAAAAAD4vxkAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAD4vygAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2025-04-17T10:44:44.33Z",
               "EditorCaption": ""
@@ -123,12 +88,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
->>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
->>>>>>> aadecc9bfceea6cf85dd4d0e2f499b67ed704b85
->>>>>>> 18884e6bfcff342922d68b48786cc9635e744b9c
               "Title": "Orders.cshtml.cs",
               "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Account\\Orders.cshtml.cs",
               "RelativeDocumentMoniker": "GolfShopHemsida\\Pages\\Account\\Orders.cshtml.cs",
@@ -136,20 +95,7 @@
               "RelativeToolTip": "GolfShopHemsida\\Pages\\Account\\Orders.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
               "WhenOpened": "2025-04-17T10:23:21.119Z"
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-              "WhenOpened": "2025-04-17T10:23:21.119Z"
-=======
-<<<<<<< Updated upstream
->>>>>>> aadecc9bfceea6cf85dd4d0e2f499b67ed704b85
-              "WhenOpened": "2025-04-17T10:41:47.066Z",
-              "EditorCaption": ""
->>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
->>>>>>> 18884e6bfcff342922d68b48786cc9635e744b9c
             },
             {
               "$type": "Document",
@@ -157,37 +103,15 @@
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "GolfShopHemsida\\Data\\AppDbContext.cs",
-<<<<<<< HEAD
-              "ToolTip": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Data\\AppDbContext.cs*",
-              "RelativeToolTip": "GolfShopHemsida\\Data\\AppDbContext.cs*",
+              "ToolTip": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "GolfShopHemsida\\Data\\AppDbContext.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAA8wBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T10:19:54.047Z",
-=======
-              "ToolTip": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "GolfShopHemsida\\Data\\AppDbContext.cs",
-<<<<<<< HEAD
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-=======
-<<<<<<< HEAD
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
-=======
-<<<<<<< Updated upstream
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
->>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
->>>>>>> aadecc9bfceea6cf85dd4d0e2f499b67ed704b85
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T10:41:47.234Z",
->>>>>>> 18884e6bfcff342922d68b48786cc9635e744b9c
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T10:19:54.047Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 3,
-=======
-              "DocumentIndex": 2,
->>>>>>> 18884e6bfcff342922d68b48786cc9635e744b9c
               "Title": "Microsoft.NET.Sdk.StaticWebAssets.Design.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.Design.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.Design.targets",
@@ -197,11 +121,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 4,
-=======
-              "DocumentIndex": 3,
->>>>>>> 18884e6bfcff342922d68b48786cc9635e744b9c
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Program.cs",
               "RelativeDocumentMoniker": "GolfShopHemsida\\Program.cs",
@@ -209,19 +129,11 @@
               "RelativeToolTip": "GolfShopHemsida\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
               "WhenOpened": "2025-04-17T10:19:54.065Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-=======
-              "WhenOpened": "2025-04-17T10:41:47.24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
->>>>>>> 18884e6bfcff342922d68b48786cc9635e744b9c
               "Title": "Member.cshtml.cs",
               "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Account\\Member.cshtml.cs",
               "RelativeDocumentMoniker": "GolfShopHemsida\\Pages\\Account\\Member.cshtml.cs",
@@ -229,19 +141,11 @@
               "RelativeToolTip": "GolfShopHemsida\\Pages\\Account\\Member.cshtml.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAgwEcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
               "WhenOpened": "2025-04-17T10:19:54.067Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-=======
-              "WhenOpened": "2025-04-17T10:41:47.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
->>>>>>> 18884e6bfcff342922d68b48786cc9635e744b9c
               "Title": "GolfShopUser.cs",
               "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Models\\GolfShopUser.cs",
               "RelativeDocumentMoniker": "GolfShopHemsida\\Models\\GolfShopUser.cs",
@@ -249,19 +153,11 @@
               "RelativeToolTip": "GolfShopHemsida\\Models\\GolfShopUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
               "WhenOpened": "2025-04-17T10:19:54.069Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-=======
-              "WhenOpened": "2025-04-17T10:41:47.244Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
->>>>>>> 18884e6bfcff342922d68b48786cc9635e744b9c
               "Title": "Member.cshtml",
               "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Account\\Member.cshtml",
               "RelativeDocumentMoniker": "GolfShopHemsida\\Pages\\Account\\Member.cshtml",
@@ -269,19 +165,11 @@
               "RelativeToolTip": "GolfShopHemsida\\Pages\\Account\\Member.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAD4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-<<<<<<< HEAD
               "WhenOpened": "2025-04-17T10:19:54.07Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-=======
-              "WhenOpened": "2025-04-17T10:41:47.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
->>>>>>> 18884e6bfcff342922d68b48786cc9635e744b9c
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "GolfShopHemsida\\Pages\\Shared\\_Layout.cshtml",
@@ -289,19 +177,11 @@
               "RelativeToolTip": "GolfShopHemsida\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-<<<<<<< HEAD
               "WhenOpened": "2025-04-17T10:19:54.072Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-=======
-              "WhenOpened": "2025-04-17T10:41:47.249Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
->>>>>>> 18884e6bfcff342922d68b48786cc9635e744b9c
               "Title": "Produkter.cshtml.cs",
               "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Account\\Forum\\Produkter.cshtml.cs",
               "RelativeDocumentMoniker": "GolfShopHemsida\\Pages\\Account\\Forum\\Produkter.cshtml.cs",
@@ -309,19 +189,11 @@
               "RelativeToolTip": "GolfShopHemsida\\Pages\\Account\\Forum\\Produkter.cshtml.cs",
               "ViewState": "AgIAAKAAAAAAAAAAAAAAAMYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
               "WhenOpened": "2025-04-17T10:19:54.073Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-=======
-              "WhenOpened": "2025-04-17T10:41:47.251Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
->>>>>>> 18884e6bfcff342922d68b48786cc9635e744b9c
               "Title": "Ovrigt.cshtml.cs",
               "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Account\\Forum\\Ovrigt.cshtml.cs",
               "RelativeDocumentMoniker": "GolfShopHemsida\\Pages\\Account\\Forum\\Ovrigt.cshtml.cs",
@@ -329,19 +201,11 @@
               "RelativeToolTip": "GolfShopHemsida\\Pages\\Account\\Forum\\Ovrigt.cshtml.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAAACgAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
               "WhenOpened": "2025-04-17T10:19:54.075Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-=======
-              "WhenOpened": "2025-04-17T10:41:47.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
->>>>>>> 18884e6bfcff342922d68b48786cc9635e744b9c
               "Title": "GolfRelaterat.cshtml.cs",
               "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Account\\Forum\\GolfRelaterat.cshtml.cs",
               "RelativeDocumentMoniker": "GolfShopHemsida\\Pages\\Account\\Forum\\GolfRelaterat.cshtml.cs",
@@ -349,11 +213,7 @@
               "RelativeToolTip": "GolfShopHemsida\\Pages\\Account\\Forum\\GolfRelaterat.cshtml.cs",
               "ViewState": "AgIAAJ4AAAAAAAAAAAAAAMUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
               "WhenOpened": "2025-04-17T10:19:54.076Z"
-=======
-              "WhenOpened": "2025-04-17T10:41:47.254Z"
->>>>>>> 18884e6bfcff342922d68b48786cc9635e744b9c
             }
           ]
         }
