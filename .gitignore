@@ -12,3 +12,12 @@
 **/node_modules/
 **/.vs/
 **/.vscode/
+
+# .NET Build Outputs
+**/bin/
+**/obj/
+**/.vs/
+
+# Static Web Assets
+**/staticwebassets.*
+**/*.staticwebassets.*
