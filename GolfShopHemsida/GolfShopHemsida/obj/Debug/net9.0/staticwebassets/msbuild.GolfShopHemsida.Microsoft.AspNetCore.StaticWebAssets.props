@@ -102,8 +102,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>is4w0uegj5</Fingerprint>
-      <Integrity>Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ=</Integrity>
+      <Fingerprint>y2aroy9yum</Fingerprint>
+      <Integrity>ylvWrZIjNgcJUMjzg1be4Fer0k0cp6StK/uQWbjTClg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -233,6 +233,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Profile_Pictures\c459ad6e-2da9-4e19-9fb2-d43bf5f23032.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\b279b7eb-4dff-4fbd-a264-f5c51f507178_krth.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>GolfShopHemsida</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/GolfShopHemsida</BasePath>
+      <RelativePath>Images/Shop/b279b7eb-4dff-4fbd-a264-f5c51f507178_krth.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>7t7vpyz8vf</Fingerprint>
+      <Integrity>tRVT97hUzFGvCvLEHZVRma0Tuw25wdzgI+DuW8lKoE4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\b279b7eb-4dff-4fbd-a264-f5c51f507178_krth.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\bag.jpg'))">
       <SourceType>Package</SourceType>

@@ -6,6 +6,6 @@
     "\\GolfShopHemsida\\GolfShopHemsida\\Data",
     "\\GolfShopHemsida\\GolfShopHemsida\\Migrations"
   ],
-  "SelectedNode": "\\GolfShopHemsida\\GolfShopHemsida\\Data\\DbInitializer.cs",
+  "SelectedNode": "\\GolfShopHemsida\\GolfShopHemsida\\Data\\AppDbContext.cs",
   "PreviewInSolutionExplorer": false
 }
