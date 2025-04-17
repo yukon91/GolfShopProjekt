@@ -1,6 +1,7 @@
 {
   "Version": 1,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12,6 +13,9 @@
 >>>>>>> parent of 78d0102 (fixed productmanagement)
   "WorkspaceRootPath": "D:\\GruppProjektGolf\\GolfShopHemsida\\",
 >>>>>>> parent of 78d0102 (fixed productmanagement)
+=======
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\",
+>>>>>>> Stashed changes
 =======
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\",
 >>>>>>> Stashed changes
@@ -33,10 +37,14 @@
         {
           "DockedWidth": 200,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
           "SelectedChildIndex": 4,
+=======
+          "SelectedChildIndex": 15,
+>>>>>>> Stashed changes
 =======
           "SelectedChildIndex": 15,
 >>>>>>> Stashed changes
@@ -89,6 +97,7 @@
               "$type": "Bookmark",
               "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
             },
+<<<<<<< Updated upstream
             {
               "$type": "Bookmark",
 <<<<<<< Updated upstream
@@ -106,6 +115,10 @@
               "$type": "Bookmark",
 >>>>>>> parent of 78d0102 (fixed productmanagement)
 =======
+>>>>>>> Stashed changes
+=======
+            {
+              "$type": "Bookmark",
 >>>>>>> Stashed changes
               "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
             },
@@ -119,6 +132,7 @@
             },
             {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
 <<<<<<< HEAD
@@ -129,6 +143,8 @@
 =======
 >>>>>>> parent of 78d0102 (fixed productmanagement)
 =======
+=======
+>>>>>>> Stashed changes
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
@@ -140,11 +156,15 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T10:31:42.874Z",
               "EditorCaption": ""
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -208,16 +228,22 @@
               "RelativeToolTip": "GolfShopHemsida\\Models\\GolfShopUser.cs",
 >>>>>>> parent of 78d0102 (fixed productmanagement)
 =======
+=======
+>>>>>>> Stashed changes
               "Title": "20250417103047_Fixedfinally.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\Migrations\\20250417103047_Fixedfinally.cs",
               "RelativeDocumentMoniker": "GolfShopHemsida\\Migrations\\20250417103047_Fixedfinally.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\Migrations\\20250417103047_Fixedfinally.cs",
               "RelativeToolTip": "GolfShopHemsida\\Migrations\\20250417103047_Fixedfinally.cs",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T10:30:48.036Z",
               "EditorCaption": ""
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
             },
             {
@@ -343,6 +369,8 @@
 >>>>>>> parent of 78d0102 (fixed productmanagement)
 =======
 >>>>>>> parent of 78d0102 (fixed productmanagement)
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
             }
