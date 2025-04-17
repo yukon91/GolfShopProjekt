@@ -1,8 +1,11 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\",
 =======
+=======
+>>>>>>> parent of 78d0102 (fixed productmanagement)
   "WorkspaceRootPath": "D:\\GruppProjektGolf\\GolfShopHemsida\\",
 >>>>>>> parent of 78d0102 (fixed productmanagement)
   "Documents": [
@@ -54,6 +57,7 @@
         {
           "DockedWidth": 200,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -66,6 +70,12 @@
             },
             {
               "$type": "Bookmark",
+=======
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+>>>>>>> parent of 78d0102 (fixed productmanagement)
 =======
           "SelectedChildIndex": 7,
           "Children": [
@@ -98,11 +108,15 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+<<<<<<< HEAD
+>>>>>>> parent of 78d0102 (fixed productmanagement)
+=======
 >>>>>>> parent of 78d0102 (fixed productmanagement)
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
               "Title": "Microsoft.NET.Sdk.StaticWebAssets.Design.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.Design.targets",
@@ -126,6 +140,13 @@
               "RelativeToolTip": "GolfShopHemsida\\Program.cs",
 <<<<<<< HEAD
 =======
+=======
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Program.cs",
+              "RelativeDocumentMoniker": "GolfShopHemsida\\Program.cs",
+              "ToolTip": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Program.cs",
+              "RelativeToolTip": "GolfShopHemsida\\Program.cs",
+>>>>>>> parent of 78d0102 (fixed productmanagement)
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T09:37:01.372Z",
@@ -181,8 +202,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
 <<<<<<< HEAD
+<<<<<<< HEAD
               "WhenOpened": "2025-04-17T10:08:38.502Z"
 =======
+=======
+>>>>>>> parent of 78d0102 (fixed productmanagement)
               "WhenOpened": "2025-04-17T07:07:07.725Z",
               "EditorCaption": ""
 >>>>>>> parent of 78d0102 (fixed productmanagement)
@@ -190,6 +214,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+<<<<<<< HEAD
 <<<<<<< HEAD
               "Title": "Member.cshtml",
               "DocumentMoniker": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Account\\Member.cshtml",
@@ -200,6 +225,8 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-17T10:08:38.505Z"
 =======
+=======
+>>>>>>> parent of 78d0102 (fixed productmanagement)
               "Title": "Ovrigt.cshtml.cs",
               "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Account\\Forum\\Ovrigt.cshtml.cs",
               "RelativeDocumentMoniker": "GolfShopHemsida\\Pages\\Account\\Forum\\Ovrigt.cshtml.cs",
@@ -262,6 +289,9 @@
 =======
               "WhenOpened": "2025-04-17T07:07:06.231Z",
               "EditorCaption": ""
+<<<<<<< HEAD
+>>>>>>> parent of 78d0102 (fixed productmanagement)
+=======
 >>>>>>> parent of 78d0102 (fixed productmanagement)
             }
           ]
