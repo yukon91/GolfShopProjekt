@@ -3436,4 +3436,8 @@ C:\Users\Admin\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\
 =======
 C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\compressed\nnmlvhfx70-a33eoqds6m.gz
 >>>>>>> Stashed changes
+<<<<<<< HEAD
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\compressed\n5qy5b2qxl-y2aroy9yum.gz
+=======
 >>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
+>>>>>>> aadecc9bfceea6cf85dd4d0e2f499b67ed704b85

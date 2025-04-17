@@ -103,12 +103,11 @@
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "GolfShopHemsida\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Data\\AppDbContext.cs*",
-              "RelativeToolTip": "GolfShopHemsida\\Data\\AppDbContext.cs*",
+              "ToolTip": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "GolfShopHemsida\\Data\\AppDbContext.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAA8wBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T10:19:54.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T10:19:54.047Z"
             },
             {
               "$type": "Document",
