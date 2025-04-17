@@ -166,6 +166,7 @@ public static class DbInitializer
 
         };
 
+
         context.Items.AddRange(items);
         context.SaveChanges();
 

@@ -2,6 +2,9 @@ using GolfShopHemsida.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace GolfShopHemsida.Pages.Admin
 {
@@ -17,33 +20,17 @@ namespace GolfShopHemsida.Pages.Admin
 
         public List<Item> Items { get; set; } = new();
 
-        [BindProperty]
-        public Item NewItem { get; set; }
-
-        public async Task OnGetAsync()
+        public void OnGet()
         {
             Items = _context.Items.ToList();
         }
 
-        public async Task<IActionResult> OnPostAddAsync()
+        public async Task<IActionResult> OnPostDeleteAsync(string itemId)
         {
-            if (!ModelState.IsValid)
+            var item = await _context.Items.FindAsync(itemId);
+            if (item != null)
             {
-                Items = _context.Items.ToList();
-                return Page();
-            }
-
-            _context.Items.Add(NewItem);
-            await _context.SaveChangesAsync();
-            return RedirectToPage();
-        }
-
-        public async Task<IActionResult> OnPostDeleteAsync(int id)
-        {
-            var product = await _context.Items.FindAsync(id);
-            if (product != null)
-            {
-                _context.Items.Remove(product);
+                _context.Items.Remove(item);
                 await _context.SaveChangesAsync();
             }
 

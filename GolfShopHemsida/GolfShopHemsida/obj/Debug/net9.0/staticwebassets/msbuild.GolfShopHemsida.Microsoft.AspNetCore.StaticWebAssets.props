@@ -102,8 +102,13 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
+<<<<<<< Updated upstream
       <Fingerprint>is4w0uegj5</Fingerprint>
       <Integrity>Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ=</Integrity>
+=======
+      <Fingerprint>9y0jjvnbzj</Fingerprint>
+      <Integrity>b3W7b5gW01O0cVX8UDCX5jj4Xqj5hEhH+L3RJdqZxwk=</Integrity>
+>>>>>>> Stashed changes
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -180,6 +185,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Bakgrund\golf.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Profile_Pictures\17c894fa-521c-4718-91a5-7ee74e3fee43.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>GolfShopHemsida</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/GolfShopHemsida</BasePath>
+      <RelativePath>Images/Profile_Pictures/17c894fa-521c-4718-91a5-7ee74e3fee43.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>9r7gktpruy</Fingerprint>
+      <Integrity>RQOgVoiVWiB8CqbirUxfbgbsdJYAMbhMeB9XIOO3xcI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Profile_Pictures\17c894fa-521c-4718-91a5-7ee74e3fee43.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Profile_Pictures\52bd35dc-3fef-4101-bcd8-24592315c000.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>GolfShopHemsida</SourceId>
@@ -216,23 +239,129 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Profile_Pictures\7931bf83-0b1a-4140-a04b-e8cbb4a93d34.png'))</OriginalItemSpec>
     </StaticWebAsset>
+<<<<<<< Updated upstream
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Profile_Pictures\c459ad6e-2da9-4e19-9fb2-d43bf5f23032.jpg'))">
+=======
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\087b40fa-165d-48c4-bec2-e36db6346a7e_bok-choi.jpg'))">
+>>>>>>> Stashed changes
       <SourceType>Package</SourceType>
       <SourceId>GolfShopHemsida</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/GolfShopHemsida</BasePath>
+<<<<<<< Updated upstream
       <RelativePath>Images/Profile_Pictures/c459ad6e-2da9-4e19-9fb2-d43bf5f23032.jpg</RelativePath>
+=======
+      <RelativePath>Images/Shop/087b40fa-165d-48c4-bec2-e36db6346a7e_bok-choi.jpg</RelativePath>
+>>>>>>> Stashed changes
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
+<<<<<<< Updated upstream
       <Fingerprint>jrotkqna1g</Fingerprint>
       <Integrity>YbHb8FVK5j+NdUy47+Ojctjv7jVVLhpMI+yY6q2CPo8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Profile_Pictures\c459ad6e-2da9-4e19-9fb2-d43bf5f23032.jpg'))</OriginalItemSpec>
+=======
+      <Fingerprint>x08w3ebypf</Fingerprint>
+      <Integrity>XwS40WgANYDHtY0YBNpVFB5T/5dbYwE8gq6alJVR9pY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\087b40fa-165d-48c4-bec2-e36db6346a7e_bok-choi.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\153f0252-40e8-4118-bba6-bfa3fb00ae53_lolQ.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>GolfShopHemsida</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/GolfShopHemsida</BasePath>
+      <RelativePath>Images/Shop/153f0252-40e8-4118-bba6-bfa3fb00ae53_lolQ.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>hm3nycrq7s</Fingerprint>
+      <Integrity>50v4RprXq4rsdj1qCdP+3Eax/uS5h2P6w1phOHln5p0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\153f0252-40e8-4118-bba6-bfa3fb00ae53_lolQ.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\41_1s0m5fpt.2uh.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>GolfShopHemsida</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/GolfShopHemsida</BasePath>
+      <RelativePath>Images/Shop/41_1s0m5fpt.2uh.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>re12x0gjcq</Fingerprint>
+      <Integrity>o/TiTgyvgmpRu7R21BPyJm2Hr+p8NsWXp0y/yHUZmz4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\41_1s0m5fpt.2uh.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\5e399ebd-89ab-4c89-bbd4-e96215020b1e_lolQ.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>GolfShopHemsida</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/GolfShopHemsida</BasePath>
+      <RelativePath>Images/Shop/5e399ebd-89ab-4c89-bbd4-e96215020b1e_lolQ.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>hm3nycrq7s</Fingerprint>
+      <Integrity>50v4RprXq4rsdj1qCdP+3Eax/uS5h2P6w1phOHln5p0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\5e399ebd-89ab-4c89-bbd4-e96215020b1e_lolQ.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\891c1a0b-2ec0-44e2-9039-129f8e0dc53a_dark-wood.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>GolfShopHemsida</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/GolfShopHemsida</BasePath>
+      <RelativePath>Images/Shop/891c1a0b-2ec0-44e2-9039-129f8e0dc53a_dark-wood.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>mollgmvlqy</Fingerprint>
+      <Integrity>+kZcPF45mvekFPOudfEjf+SDZW+t22EknZh1Yhx0kaU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\891c1a0b-2ec0-44e2-9039-129f8e0dc53a_dark-wood.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\99e0507d-f6a9-4665-b6dc-b589db03d443_bok-choi.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>GolfShopHemsida</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/GolfShopHemsida</BasePath>
+      <RelativePath>Images/Shop/99e0507d-f6a9-4665-b6dc-b589db03d443_bok-choi.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>x08w3ebypf</Fingerprint>
+      <Integrity>XwS40WgANYDHtY0YBNpVFB5T/5dbYwE8gq6alJVR9pY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\99e0507d-f6a9-4665-b6dc-b589db03d443_bok-choi.jpg'))</OriginalItemSpec>
+>>>>>>> Stashed changes
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\bag.jpg'))">
       <SourceType>Package</SourceType>
@@ -287,6 +416,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\bridgestone.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\c47ca75a-8801-48e9-975d-d746bb3a8206_1.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>GolfShopHemsida</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/GolfShopHemsida</BasePath>
+      <RelativePath>Images/Shop/c47ca75a-8801-48e9-975d-d746bb3a8206_1.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ptat81om91</Fingerprint>
+      <Integrity>DYhMfYxQ8x8GtbrZNbE/HhcjCUSCQnN4qqQLj8koF6E=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\c47ca75a-8801-48e9-975d-d746bb3a8206_1.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\callaway.png'))">
       <SourceType>Package</SourceType>
@@ -360,6 +507,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\Callaway-Pro-mens.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\d26327f1-0bc1-45e3-813b-0a30c3d41730_92%.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>GolfShopHemsida</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/GolfShopHemsida</BasePath>
+      <RelativePath>Images/Shop/d26327f1-0bc1-45e3-813b-0a30c3d41730_92%.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>er9wd10hzz</Fingerprint>
+      <Integrity>agpA9ewEUdYa//xs2VCQ2QtN5kz2YEmt7E2T6y2sYis=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\d26327f1-0bc1-45e3-813b-0a30c3d41730_92%.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\d56e3d86-875c-4a61-ba0f-a84d7f13d161_1231234.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>GolfShopHemsida</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/GolfShopHemsida</BasePath>
+      <RelativePath>Images/Shop/d56e3d86-875c-4a61-ba0f-a84d7f13d161_1231234.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>p9w6kv8vks</Fingerprint>
+      <Integrity>3Zi10ONzP4YXUxz/RM4r0Gwxf0GHLKel0lz9Exn88wA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\d56e3d86-875c-4a61-ba0f-a84d7f13d161_1231234.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\Drivers.png'))">
       <SourceType>Package</SourceType>
       <SourceId>GolfShopHemsida</SourceId>
@@ -395,6 +578,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\FAIRWAY-WOODS.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\fc25cd96-828e-4f1d-884e-0244b7ae770c_bok-choi.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>GolfShopHemsida</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/GolfShopHemsida</BasePath>
+      <RelativePath>Images/Shop/fc25cd96-828e-4f1d-884e-0244b7ae770c_bok-choi.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>x08w3ebypf</Fingerprint>
+      <Integrity>XwS40WgANYDHtY0YBNpVFB5T/5dbYwE8gq6alJVR9pY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\fc25cd96-828e-4f1d-884e-0244b7ae770c_bok-choi.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\golf.png'))">
       <SourceType>Package</SourceType>
@@ -557,6 +758,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\titleist.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\vel_3dtmogoa.o0z.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>GolfShopHemsida</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/GolfShopHemsida</BasePath>
+      <RelativePath>Images/Shop/vel_3dtmogoa.o0z.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>d4kh0znidl</Fingerprint>
+      <Integrity>4yMj6QrdqmnUUPEhInlQ+iPJVh45Knz4dnLYKaifDBs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\vel_3dtmogoa.o0z.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Shop\WEDGAR.jpg'))">
       <SourceType>Package</SourceType>

@@ -4,8 +4,10 @@
     "\\GolfShopHemsida",
     "\\GolfShopHemsida\\GolfShopHemsida",
     "\\GolfShopHemsida\\GolfShopHemsida\\Data",
-    "\\GolfShopHemsida\\GolfShopHemsida\\Migrations"
+    "\\GolfShopHemsida\\GolfShopHemsida\\Migrations",
+    "\\GolfShopHemsida\\GolfShopHemsida\\Pages",
+    "\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Admin"
   ],
-  "SelectedNode": "\\GolfShopHemsida\\GolfShopHemsida\\Data\\DbInitializer.cs",
+  "SelectedNode": "\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Admin\\ProductManagement.cshtml.cs",
   "PreviewInSolutionExplorer": false
 }
