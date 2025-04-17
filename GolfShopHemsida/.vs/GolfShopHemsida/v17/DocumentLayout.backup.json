@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\",
+=======
+  "WorkspaceRootPath": "D:\\GruppProjektGolf\\GolfShopHemsida\\",
+>>>>>>> parent of 78d0102 (fixed productmanagement)
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|c:\\users\\oscar\\documents\\github\\golfshopprojekt\\golfshophemsida\\golfshophemsida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,6 +27,7 @@
       "RelativeMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|solutionrelative:golfshophemsida\\pages\\account\\forum\\produkter.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|c:\\users\\oscar\\documents\\github\\golfshopprojekt\\golfshophemsida\\golfshophemsida\\pages\\account\\member.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|solutionrelative:golfshophemsida\\pages\\account\\member.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,6 +38,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|c:\\users\\oscar\\documents\\github\\golfshopprojekt\\golfshophemsida\\golfshophemsida\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|solutionrelative:golfshophemsida\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+=======
+      "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|d:\\gruppprojektgolf\\golfshophemsida\\golfshophemsida\\wwwroot\\css\\membercss\\member.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|solutionrelative:golfshophemsida\\wwwroot\\css\\membercss\\member.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+>>>>>>> parent of 78d0102 (fixed productmanagement)
     }
   ],
   "DocumentGroupContainers": [
@@ -42,6 +51,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -54,6 +64,12 @@
             },
             {
               "$type": "Bookmark",
+=======
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+>>>>>>> parent of 78d0102 (fixed productmanagement)
               "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
             },
             {
@@ -61,6 +77,7 @@
               "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
             },
             {
+<<<<<<< HEAD
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
@@ -68,6 +85,49 @@
               "RelativeDocumentMoniker": "GolfShopHemsida\\Program.cs",
               "ToolTip": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\Program.cs",
               "RelativeToolTip": "GolfShopHemsida\\Program.cs",
+=======
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "GolfShopHemsida\\Models\\Comment.cs",
+              "ToolTip": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Models\\Comment.cs",
+              "RelativeToolTip": "GolfShopHemsida\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:13:25.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Member.cshtml.cs",
+              "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Account\\Member.cshtml.cs",
+              "RelativeDocumentMoniker": "GolfShopHemsida\\Pages\\Account\\Member.cshtml.cs",
+              "ToolTip": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Account\\Member.cshtml.cs",
+              "RelativeToolTip": "GolfShopHemsida\\Pages\\Account\\Member.cshtml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwEMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:56:45.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GolfShopUser.cs",
+              "DocumentMoniker": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Models\\GolfShopUser.cs",
+              "RelativeDocumentMoniker": "GolfShopHemsida\\Models\\GolfShopUser.cs",
+              "ToolTip": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\Models\\GolfShopUser.cs",
+              "RelativeToolTip": "GolfShopHemsida\\Models\\GolfShopUser.cs",
+>>>>>>> parent of 78d0102 (fixed productmanagement)
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T10:08:38.392Z",
@@ -83,6 +143,7 @@
               "RelativeToolTip": "GolfShopHemsida\\Pages\\Account\\Member.cshtml.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAgwEcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2025-04-17T10:08:38.499Z"
             },
             {
@@ -156,6 +217,10 @@
               "ViewState": "AgIAAJ4AAAAAAAAAAAAAAMUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T10:08:38.513Z"
+=======
+              "WhenOpened": "2025-04-16T11:58:57.384Z",
+              "EditorCaption": ""
+>>>>>>> parent of 78d0102 (fixed productmanagement)
             }
           ]
         }

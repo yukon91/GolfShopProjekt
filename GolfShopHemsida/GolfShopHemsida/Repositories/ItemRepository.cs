@@ -19,6 +19,7 @@ public class ItemRepository
 
     public async Task AddItemAsync(Item item)
     {
+        item.ItemId = Guid.NewGuid().ToString(); // Auto-generate ID
         _context.Items.Add(item);
         await _context.SaveChangesAsync();
     }

@@ -15,7 +15,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GolfShopHemsida")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78d01023ee2aad5d8e31e97932a2e933cfad2057")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9340fece6f1fd0207a65be64084acd1fa88fea25")]
+>>>>>>> parent of 78d0102 (fixed productmanagement)
 [assembly: System.Reflection.AssemblyProductAttribute("GolfShopHemsida")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GolfShopHemsida")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
