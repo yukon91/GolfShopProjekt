@@ -2514,7 +2514,6 @@ C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\
 C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\compressed\xlrvu73ltn-uthja1pgke.gz
 C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\compressed\cpro8t23qh-uib5li7jam.gz
 C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\compressed\p41daygs6g-jr2yjfbyqq.gz
-C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\compressed\nnmlvhfx70-d4267esbj2.gz
 C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\compressed\q0fxynd56s-mfggzzqamv.gz
 C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\compressed\n5qy5b2qxl-is4w0uegj5.gz
 C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\compressed\yoekzuwhxk-61n19gt1b8.gz
@@ -3015,6 +3014,7 @@ D:\GruppProjektGolf\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\refint\Golf
 D:\GruppProjektGolf\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\GolfShopHemsida.pdb
 D:\GruppProjektGolf\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\GolfShopHemsida.genruntimeconfig.cache
 D:\GruppProjektGolf\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\ref\GolfShopHemsida.dll
+<<<<<<< Updated upstream
 C:\Users\Admin\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\GolfShopHemsida.csproj.AssemblyReference.cache
 C:\Users\Admin\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\GolfShopHemsida.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Admin\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\GolfShopHemsida.AssemblyInfoInputs.cache
@@ -3431,3 +3431,6 @@ C:\Users\Admin\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\
 C:\Users\Admin\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\GolfShopHemsida.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\ref\GolfShopHemsida.dll
 C:\Users\Admin\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\compressed\n5qy5b2qxl-y2aroy9yum.gz
+=======
+C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\compressed\nnmlvhfx70-a33eoqds6m.gz
+>>>>>>> Stashed changes
