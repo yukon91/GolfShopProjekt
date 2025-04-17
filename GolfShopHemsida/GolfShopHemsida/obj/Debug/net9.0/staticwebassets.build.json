@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Q0L2/qcdw4qskLE5IME2vK6kYKi+gKyWZKTVztx2jx4=",
+  "Hash": "DN+Gu0ee/fjD0ugsUYUY/9ag9Ffbw+DRvmPGLhbuu/8=",
   "Source": "GolfShopHemsida",
   "BasePath": "_content/GolfShopHemsida",
   "Mode": "Default",
@@ -2621,12 +2621,12 @@
       "OriginalItemSpec": "C:\\Users\\oscar\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\nnmlvhfx70-d4267esbj2.gz",
+      "Identity": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\nnmlvhfx70-md72p8c7fj.gz",
       "SourceId": "GolfShopHemsida",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GolfShopHemsida",
-      "RelativePath": "css/MemberCSS/member#[.{fingerprint=d4267esbj2}]?.css.gz",
+      "RelativePath": "css/MemberCSS/member#[.{fingerprint=md72p8c7fj}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2635,8 +2635,8 @@
       "RelatedAsset": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\MemberCSS\\member.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "798u8ru368",
-      "Integrity": "tYa5dJl32Y+oL51zxFPkvAkP8Ido9gaxgDfkjVnidBY=",
+      "Fingerprint": "4tklweo5xm",
+      "Integrity": "aMvtgSIkn9mQKTMmp/3DwOdkaJOA+qNIcExEY1+CRvU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\MemberCSS\\member.css"
@@ -4231,8 +4231,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "d4267esbj2",
-      "Integrity": "w9CVshCLGYm9ZdJ04cZ71H01FlKf5GJ+AyJZKY2lILs=",
+      "Fingerprint": "md72p8c7fj",
+      "Integrity": "JhUFy5b7/Krg1azutoYnIhnZe3GKw4478ZDVkh/c39U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\MemberCSS\\member.css"
@@ -7004,12 +7004,12 @@
     },
     {
       "Route": "css/MemberCSS/member.css",
-      "AssetFile": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\nnmlvhfx70-d4267esbj2.gz",
+      "AssetFile": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\nnmlvhfx70-md72p8c7fj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000768049155"
+          "Quality": "0.000670241287"
         }
       ],
       "ResponseHeaders": [
@@ -7019,15 +7019,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1301"
+          "Value": "1491"
         },
         {
           "Name": "ETag",
-          "Value": "\"tYa5dJl32Y+oL51zxFPkvAkP8Ido9gaxgDfkjVnidBY=\""
+          "Value": "\"aMvtgSIkn9mQKTMmp/3DwOdkaJOA+qNIcExEY1+CRvU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:02:16 GMT"
+          "Value": "Wed, 16 Apr 2025 11:12:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7047,13 +7047,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"w9CVshCLGYm9ZdJ04cZ71H01FlKf5GJ+AyJZKY2lILs=\""
+          "Value": "W/\"JhUFy5b7/Krg1azutoYnIhnZe3GKw4478ZDVkh/c39U=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-w9CVshCLGYm9ZdJ04cZ71H01FlKf5GJ+AyJZKY2lILs="
+          "Value": "sha256-JhUFy5b7/Krg1azutoYnIhnZe3GKw4478ZDVkh/c39U="
         }
       ]
     },
@@ -7068,7 +7068,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5034"
+          "Value": "6318"
         },
         {
           "Name": "Content-Type",
@@ -7076,11 +7076,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"w9CVshCLGYm9ZdJ04cZ71H01FlKf5GJ+AyJZKY2lILs=\""
+          "Value": "\"JhUFy5b7/Krg1azutoYnIhnZe3GKw4478ZDVkh/c39U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:02:16 GMT"
+          "Value": "Wed, 16 Apr 2025 11:12:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7090,13 +7090,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-w9CVshCLGYm9ZdJ04cZ71H01FlKf5GJ+AyJZKY2lILs="
+          "Value": "sha256-JhUFy5b7/Krg1azutoYnIhnZe3GKw4478ZDVkh/c39U="
         }
       ]
     },
     {
       "Route": "css/MemberCSS/member.css.gz",
-      "AssetFile": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\nnmlvhfx70-d4267esbj2.gz",
+      "AssetFile": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\nnmlvhfx70-md72p8c7fj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7105,7 +7105,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1301"
+          "Value": "1491"
         },
         {
           "Name": "Content-Type",
@@ -7113,11 +7113,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tYa5dJl32Y+oL51zxFPkvAkP8Ido9gaxgDfkjVnidBY=\""
+          "Value": "\"aMvtgSIkn9mQKTMmp/3DwOdkaJOA+qNIcExEY1+CRvU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:02:16 GMT"
+          "Value": "Wed, 16 Apr 2025 11:12:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7135,18 +7135,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tYa5dJl32Y+oL51zxFPkvAkP8Ido9gaxgDfkjVnidBY="
+          "Value": "sha256-aMvtgSIkn9mQKTMmp/3DwOdkaJOA+qNIcExEY1+CRvU="
         }
       ]
     },
     {
-      "Route": "css/MemberCSS/member.d4267esbj2.css",
-      "AssetFile": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\nnmlvhfx70-d4267esbj2.gz",
+      "Route": "css/MemberCSS/member.md72p8c7fj.css",
+      "AssetFile": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\nnmlvhfx70-md72p8c7fj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000768049155"
+          "Quality": "0.000670241287"
         }
       ],
       "ResponseHeaders": [
@@ -7156,15 +7156,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1301"
+          "Value": "1491"
         },
         {
           "Name": "ETag",
-          "Value": "\"tYa5dJl32Y+oL51zxFPkvAkP8Ido9gaxgDfkjVnidBY=\""
+          "Value": "\"aMvtgSIkn9mQKTMmp/3DwOdkaJOA+qNIcExEY1+CRvU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:02:16 GMT"
+          "Value": "Wed, 16 Apr 2025 11:12:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7184,13 +7184,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"w9CVshCLGYm9ZdJ04cZ71H01FlKf5GJ+AyJZKY2lILs=\""
+          "Value": "W/\"JhUFy5b7/Krg1azutoYnIhnZe3GKw4478ZDVkh/c39U=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "d4267esbj2"
+          "Value": "md72p8c7fj"
         },
         {
           "Name": "label",
@@ -7198,12 +7198,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-w9CVshCLGYm9ZdJ04cZ71H01FlKf5GJ+AyJZKY2lILs="
+          "Value": "sha256-JhUFy5b7/Krg1azutoYnIhnZe3GKw4478ZDVkh/c39U="
         }
       ]
     },
     {
-      "Route": "css/MemberCSS/member.d4267esbj2.css",
+      "Route": "css/MemberCSS/member.md72p8c7fj.css",
       "AssetFile": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\MemberCSS\\member.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -7213,7 +7213,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5034"
+          "Value": "6318"
         },
         {
           "Name": "Content-Type",
@@ -7221,11 +7221,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"w9CVshCLGYm9ZdJ04cZ71H01FlKf5GJ+AyJZKY2lILs=\""
+          "Value": "\"JhUFy5b7/Krg1azutoYnIhnZe3GKw4478ZDVkh/c39U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:02:16 GMT"
+          "Value": "Wed, 16 Apr 2025 11:12:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7235,7 +7235,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "d4267esbj2"
+          "Value": "md72p8c7fj"
         },
         {
           "Name": "label",
@@ -7243,13 +7243,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-w9CVshCLGYm9ZdJ04cZ71H01FlKf5GJ+AyJZKY2lILs="
+          "Value": "sha256-JhUFy5b7/Krg1azutoYnIhnZe3GKw4478ZDVkh/c39U="
         }
       ]
     },
     {
-      "Route": "css/MemberCSS/member.d4267esbj2.css.gz",
-      "AssetFile": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\nnmlvhfx70-d4267esbj2.gz",
+      "Route": "css/MemberCSS/member.md72p8c7fj.css.gz",
+      "AssetFile": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\nnmlvhfx70-md72p8c7fj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7258,7 +7258,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1301"
+          "Value": "1491"
         },
         {
           "Name": "Content-Type",
@@ -7266,11 +7266,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tYa5dJl32Y+oL51zxFPkvAkP8Ido9gaxgDfkjVnidBY=\""
+          "Value": "\"aMvtgSIkn9mQKTMmp/3DwOdkaJOA+qNIcExEY1+CRvU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:02:16 GMT"
+          "Value": "Wed, 16 Apr 2025 11:12:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7288,7 +7288,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "d4267esbj2"
+          "Value": "md72p8c7fj"
         },
         {
           "Name": "label",
@@ -7296,7 +7296,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-tYa5dJl32Y+oL51zxFPkvAkP8Ido9gaxgDfkjVnidBY="
+          "Value": "sha256-aMvtgSIkn9mQKTMmp/3DwOdkaJOA+qNIcExEY1+CRvU="
         }
       ]
     },
@@ -8293,7 +8293,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:02:16 GMT"
+          "Value": "Wed, 16 Apr 2025 16:58:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8346,7 +8346,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:02:16 GMT"
+          "Value": "Wed, 16 Apr 2025 16:58:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8383,7 +8383,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:02:16 GMT"
+          "Value": "Wed, 16 Apr 2025 16:58:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8430,7 +8430,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:02:16 GMT"
+          "Value": "Wed, 16 Apr 2025 16:58:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8491,7 +8491,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:02:16 GMT"
+          "Value": "Wed, 16 Apr 2025 16:58:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8536,7 +8536,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:02:16 GMT"
+          "Value": "Wed, 16 Apr 2025 16:58:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8591,7 +8591,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:02:16 GMT"
+          "Value": "Wed, 16 Apr 2025 16:58:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8652,7 +8652,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:02:16 GMT"
+          "Value": "Wed, 16 Apr 2025 16:58:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8697,7 +8697,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:02:16 GMT"
+          "Value": "Wed, 16 Apr 2025 16:58:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8752,7 +8752,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:02:16 GMT"
+          "Value": "Wed, 16 Apr 2025 16:58:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8805,7 +8805,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:02:16 GMT"
+          "Value": "Wed, 16 Apr 2025 16:58:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8842,7 +8842,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 13:02:16 GMT"
+          "Value": "Wed, 16 Apr 2025 16:58:42 GMT"
         },
         {
           "Name": "Cache-Control",

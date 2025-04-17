@@ -1,10 +1,7 @@
 ﻿@page
 @model GolfShopHemsida.Pages.ShopModel
-@using GolfShopHemsida.Pages.Items
 @{
-	ViewData["Title"] = "Shop";
-}
-@{
+    ViewData["Title"] = "Shop";
 }
 <!DOCTYPE html>
 <html lang="se">
@@ -12,18 +9,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Shop</title>
-    <link rel="stylesheet" href="~/css/site.css">
     <link rel="stylesheet" href="~/css/ShopCSS/style1.css">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
-          rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 </head>
 <body>
-    <main>
-        <div class="shop-background">
-            <div class="shop">Välkommen till våran shop</div>
+    <div class="shop-container">
+        <!-- Main Shop Content -->
+        <div class="shop-content">
+            <div class="shop-header">
+                <h1>Välkommen till våran shop</h1>
+            </div>
 
             <section class="produkter">
                 @foreach (var item in Model.Items)
@@ -31,13 +27,13 @@
                     <div class="produkt">
                         <img src="@item.ImageUrl" alt="@item.Name">
                         <h2>@item.Name</h2>
-						<p>@item.Description</p>
+                        <p>@item.Description</p>
                         <p>@item.Price.ToString("0") kr</p>
                         @if (item.Stock > 0)
                         {
-                            <form method="post" asp-page-handler="AddToCart">
+                            <form method="post" asp-page-handler="AddToCart" class="add-to-cart-form">
                                 <input type="hidden" name="itemId" value="@item.ItemId" />
-                                <button type="submit">Lägg i kundvagn</button>
+                                <button type="submit" class="btn btn-primary">Lägg i kundvagn</button>
                             </form>
                         }
                         else
@@ -48,24 +44,125 @@
                 }
             </section>
         </div>
-    </main>
+
+        <!-- Cart Sidebar -->
+        <aside class="cart-sidebar">
+            <div class="cart-header">
+                <h3><i class='bx bx-cart'></i> Din Kundvagn</h3>
+                <span class="cart-count">@Model.CartItemCount</span>
+            </div>
+            <div class="cart-items show">
+                @if (Model.CartItems.Any())
+                {
+                    @foreach (var item in Model.CartItems)
+                    {
+                        <div class="cart-item">
+                            <img src="@item.Item.ImageUrl" alt="@item.Item.Name">
+                            <div class="cart-item-details">
+                                <h4>@item.Item.Name</h4>
+                                <p>@item.Quantity x @item.Item.Price.ToString("0") kr</p>
+                                <form method="post" asp-page-handler="RemoveFromCart">
+                                    <input type="hidden" name="cartItemId" value="@item.CartItemId" />
+                                    <button type="submit" class="remove-btn"><i class='bx bx-trash'></i></button>
+                                </form>
+                            </div>
+                        </div>
+                    }
+                    <div class="cart-total">
+                        <strong>Totalt: @Model.CartTotal.ToString("0") kr</strong>
+                    </div>
+                    <form method="post" asp-page="/Cart/Index" asp-page-handler="Checkout">
+                        <button type="submit" class="checkout-btn">Till kassan</button>
+                    </form>
+                }
+                else
+                {
+                    <p class="empty-cart">Din kundvagn är tom</p>
+                }
+            </div>
+        </aside>
+    </div>
 
     <script>
         const isLoggedIn = @(User.Identity?.IsAuthenticated.ToString().ToLower() ?? "false");
 
-        document.querySelectorAll('form button[type="submit"]').forEach(button => {
-            button.addEventListener('click', function(e) {
+        // Handle add to cart forms with AJAX
+        document.querySelectorAll('.add-to-cart-form').forEach(form => {
+            form.addEventListener('submit', async function(e) {
+                e.preventDefault();
+
                 if (!isLoggedIn) {
-                    e.preventDefault();
                     alert('Vänligen logga in eller skapa konto för att lägga till en produkt i kundvagnen.');
+                    return;
+                }
+
+                const formData = new FormData(this);
+                try {
+                    const response = await fetch(this.action, {
+                        method: 'POST',
+                        body: formData,
+                        headers: {
+                            'RequestVerificationToken': document.querySelector('input[name="__RequestVerificationToken"]').value
+                        }
+                    });
+
+                    if (response.ok) {
+                        // Refresh the cart by reloading just the cart section
+                        const cartResponse = await fetch('?handler=CartPartial');
+                        const cartHtml = await cartResponse.text();
+                        document.querySelector('.cart-sidebar').outerHTML = cartHtml;
+
+                        // Re-attach event listeners
+                        attachCartEvents();
+                    } else {
+                        alert('Kunde inte lägga till produkten i kundvagnen');
+                    }
+                } catch (error) {
+                    console.error('Error:', error);
+                    alert('Ett fel uppstod');
                 }
             });
         });
 
-        // Show success message when item is added
-        if (window.location.search.includes('added=true')) {
-            alert('Produkten har lagts till i din kundvagn!');
+        // Function to re-attach event listeners after AJAX updates
+        function attachCartEvents() {
+            // Toggle cart items visibility
+            document.querySelector('.cart-header').addEventListener('click', function() {
+                document.querySelector('.cart-items').classList.toggle('show');
+            });
+
+            // Handle remove item from cart
+            document.querySelectorAll('.remove-btn').forEach(button => {
+                button.addEventListener('click', async function(e) {
+                    e.preventDefault();
+                    const form = this.closest('form');
+                    const formData = new FormData(form);
+
+                    try {
+                        const response = await fetch(form.action, {
+                            method: 'POST',
+                            body: formData,
+                            headers: {
+                                'RequestVerificationToken': document.querySelector('input[name="__RequestVerificationToken"]').value
+                            }
+                        });
+
+                        if (response.ok) {
+                            // Refresh the cart
+                            const cartResponse = await fetch('?handler=CartPartial');
+                            const cartHtml = await cartResponse.text();
+                            document.querySelector('.cart-sidebar').outerHTML = cartHtml;
+                            attachCartEvents();
+                        }
+                    } catch (error) {
+                        console.error('Error:', error);
+                    }
+                });
+            });
         }
+
+        // Initial attachment of event listeners
+        attachCartEvents();
     </script>
 </body>
 </html>
