@@ -19,7 +19,11 @@ build_property.RootNamespace = GolfShopHemsida
 build_property.RootNamespace = GolfShopHemsida
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\
+=======
+build_property.ProjectDir = D:\GruppProjektGolf\GolfShopHemsida\GolfShopHemsida\
+>>>>>>> parent of 78d0102 (fixed productmanagement)
 =======
 build_property.ProjectDir = D:\GruppProjektGolf\GolfShopHemsida\GolfShopHemsida\
 >>>>>>> parent of 78d0102 (fixed productmanagement)
@@ -33,7 +37,11 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida
+=======
+build_property.MSBuildProjectDirectory = D:\GruppProjektGolf\GolfShopHemsida\GolfShopHemsida
+>>>>>>> parent of 78d0102 (fixed productmanagement)
 =======
 build_property.MSBuildProjectDirectory = D:\GruppProjektGolf\GolfShopHemsida\GolfShopHemsida
 >>>>>>> parent of 78d0102 (fixed productmanagement)
@@ -46,8 +54,11 @@ build_property.EnableCodeStyleSeverity =
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [C:/Users/oscar/Documents/GitHub/GolfShopProjekt/GolfShopHemsida/GolfShopHemsida/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 =======
+=======
+>>>>>>> parent of 78d0102 (fixed productmanagement)
 =======
 >>>>>>> parent of 78d0102 (fixed productmanagement)
 [D:/GruppProjektGolf/GolfShopHemsida/GolfShopHemsida/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
@@ -268,6 +279,9 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/GruppProjektGolf/GolfShopHemsida/GolfShopHemsida/Pages/Shared/_Layout.cshtml]
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 78d0102 (fixed productmanagement)
+=======
 >>>>>>> parent of 78d0102 (fixed productmanagement)
 =======
 >>>>>>> parent of 78d0102 (fixed productmanagement)
