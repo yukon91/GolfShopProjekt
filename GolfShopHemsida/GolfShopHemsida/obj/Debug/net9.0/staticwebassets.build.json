@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ja9QYCxppwN9AvMljTJN5c3skr9pRSGuKAijAs4CQao=",
+  "Hash": "cflZios3jNYb+/qE12G5envjZGP/dQ2hgy8Rw/OlVxs=",
   "Source": "GolfShopHemsida",
   "BasePath": "_content/GolfShopHemsida",
   "Mode": "Default",
@@ -2537,12 +2537,12 @@
       "OriginalItemSpec": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-l8xg7hb8zv.gz",
+      "Identity": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-is4w0uegj5.gz",
       "SourceId": "GolfShopHemsida",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GolfShopHemsida",
-      "RelativePath": "css/site#[.{fingerprint=l8xg7hb8zv}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=is4w0uegj5}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2551,8 +2551,8 @@
       "RelatedAsset": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jpl6zx2i0t",
-      "Integrity": "mYW49WjlYo6PW+qw3w38zQ3NTXxHxXOcgNE1QzmiHbA=",
+      "Fingerprint": "2boh8q1vjp",
+      "Integrity": "ThVel80raidXp1BDAZayZgPctZyH05+M2fvlr/0bINg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\site.css"
@@ -4273,8 +4273,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "l8xg7hb8zv",
-      "Integrity": "RQdb0XXxfNYjj3+hYvvWK3x26K3Z0oBQI5dJKHb4aHc=",
+      "Fingerprint": "is4w0uegj5",
+      "Integrity": "Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -7658,12 +7658,12 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-l8xg7hb8zv.gz",
+      "AssetFile": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-is4w0uegj5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000353232073"
+          "Quality": "0.000350877193"
         }
       ],
       "ResponseHeaders": [
@@ -7673,15 +7673,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2830"
+          "Value": "2849"
         },
         {
           "Name": "ETag",
-          "Value": "\"mYW49WjlYo6PW+qw3w38zQ3NTXxHxXOcgNE1QzmiHbA=\""
+          "Value": "\"ThVel80raidXp1BDAZayZgPctZyH05+M2fvlr/0bINg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 08:02:57 GMT"
+          "Value": "Thu, 17 Apr 2025 10:19:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7701,13 +7701,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"RQdb0XXxfNYjj3+hYvvWK3x26K3Z0oBQI5dJKHb4aHc=\""
+          "Value": "W/\"Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RQdb0XXxfNYjj3+hYvvWK3x26K3Z0oBQI5dJKHb4aHc="
+          "Value": "sha256-Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ="
         }
       ]
     },
@@ -7722,7 +7722,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9377"
+          "Value": "9808"
         },
         {
           "Name": "Content-Type",
@@ -7730,11 +7730,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RQdb0XXxfNYjj3+hYvvWK3x26K3Z0oBQI5dJKHb4aHc=\""
+          "Value": "\"Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 08:02:57 GMT"
+          "Value": "Thu, 17 Apr 2025 10:19:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7744,13 +7744,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RQdb0XXxfNYjj3+hYvvWK3x26K3Z0oBQI5dJKHb4aHc="
+          "Value": "sha256-Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-l8xg7hb8zv.gz",
+      "AssetFile": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-is4w0uegj5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7759,7 +7759,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2830"
+          "Value": "2849"
         },
         {
           "Name": "Content-Type",
@@ -7767,11 +7767,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mYW49WjlYo6PW+qw3w38zQ3NTXxHxXOcgNE1QzmiHbA=\""
+          "Value": "\"ThVel80raidXp1BDAZayZgPctZyH05+M2fvlr/0bINg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 08:02:57 GMT"
+          "Value": "Thu, 17 Apr 2025 10:19:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7789,18 +7789,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mYW49WjlYo6PW+qw3w38zQ3NTXxHxXOcgNE1QzmiHbA="
+          "Value": "sha256-ThVel80raidXp1BDAZayZgPctZyH05+M2fvlr/0bINg="
         }
       ]
     },
     {
-      "Route": "css/site.l8xg7hb8zv.css",
-      "AssetFile": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-l8xg7hb8zv.gz",
+      "Route": "css/site.is4w0uegj5.css",
+      "AssetFile": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-is4w0uegj5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000353232073"
+          "Quality": "0.000350877193"
         }
       ],
       "ResponseHeaders": [
@@ -7810,15 +7810,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2830"
+          "Value": "2849"
         },
         {
           "Name": "ETag",
-          "Value": "\"mYW49WjlYo6PW+qw3w38zQ3NTXxHxXOcgNE1QzmiHbA=\""
+          "Value": "\"ThVel80raidXp1BDAZayZgPctZyH05+M2fvlr/0bINg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 08:02:57 GMT"
+          "Value": "Thu, 17 Apr 2025 10:19:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7838,13 +7838,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"RQdb0XXxfNYjj3+hYvvWK3x26K3Z0oBQI5dJKHb4aHc=\""
+          "Value": "W/\"Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "l8xg7hb8zv"
+          "Value": "is4w0uegj5"
         },
         {
           "Name": "label",
@@ -7852,12 +7852,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-RQdb0XXxfNYjj3+hYvvWK3x26K3Z0oBQI5dJKHb4aHc="
+          "Value": "sha256-Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ="
         }
       ]
     },
     {
-      "Route": "css/site.l8xg7hb8zv.css",
+      "Route": "css/site.is4w0uegj5.css",
       "AssetFile": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -7867,7 +7867,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9377"
+          "Value": "9808"
         },
         {
           "Name": "Content-Type",
@@ -7875,11 +7875,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RQdb0XXxfNYjj3+hYvvWK3x26K3Z0oBQI5dJKHb4aHc=\""
+          "Value": "\"Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 08:02:57 GMT"
+          "Value": "Thu, 17 Apr 2025 10:19:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7889,7 +7889,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "l8xg7hb8zv"
+          "Value": "is4w0uegj5"
         },
         {
           "Name": "label",
@@ -7897,13 +7897,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-RQdb0XXxfNYjj3+hYvvWK3x26K3Z0oBQI5dJKHb4aHc="
+          "Value": "sha256-Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ="
         }
       ]
     },
     {
-      "Route": "css/site.l8xg7hb8zv.css.gz",
-      "AssetFile": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-l8xg7hb8zv.gz",
+      "Route": "css/site.is4w0uegj5.css.gz",
+      "AssetFile": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-is4w0uegj5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7912,7 +7912,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2830"
+          "Value": "2849"
         },
         {
           "Name": "Content-Type",
@@ -7920,11 +7920,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mYW49WjlYo6PW+qw3w38zQ3NTXxHxXOcgNE1QzmiHbA=\""
+          "Value": "\"ThVel80raidXp1BDAZayZgPctZyH05+M2fvlr/0bINg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 08:02:57 GMT"
+          "Value": "Thu, 17 Apr 2025 10:19:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7942,7 +7942,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "l8xg7hb8zv"
+          "Value": "is4w0uegj5"
         },
         {
           "Name": "label",
@@ -7950,7 +7950,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mYW49WjlYo6PW+qw3w38zQ3NTXxHxXOcgNE1QzmiHbA="
+          "Value": "sha256-ThVel80raidXp1BDAZayZgPctZyH05+M2fvlr/0bINg="
         }
       ]
     },
