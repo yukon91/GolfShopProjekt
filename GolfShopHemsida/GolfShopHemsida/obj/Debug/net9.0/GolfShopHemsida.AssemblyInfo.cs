@@ -15,31 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GolfShopHemsida")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78d01023ee2aad5d8e31e97932a2e933cfad2057")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9340fece6f1fd0207a65be64084acd1fa88fea25")]
->>>>>>> parent of 78d0102 (fixed productmanagement)
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9340fece6f1fd0207a65be64084acd1fa88fea25")]
->>>>>>> parent of 78d0102 (fixed productmanagement)
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9340fece6f1fd0207a65be64084acd1fa88fea25")]
->>>>>>> parent of 78d0102 (fixed productmanagement)
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+837893906941790d6c549f4fdd70f4e55a9862fb")]
->>>>>>> cacff53aa0e2c0ae2c92e3e7cb25a8a1c17b6841
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68261a8f93901f0d9bba601eeba6bcbab8b3fea0")]
->>>>>>> Stashed changes
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68261a8f93901f0d9bba601eeba6bcbab8b3fea0")]
->>>>>>> Stashed changes
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94855c7e7a7fe5dd92f555f4cc55e55a0383f6a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("GolfShopHemsida")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GolfShopHemsida")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
