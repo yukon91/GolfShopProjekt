@@ -15,6 +15,14 @@ public class AppDbContext : IdentityDbContext<GolfShopUser>
     public DbSet<Comment> Comments { get; set; }
     public DbSet<FollowUser> FollowUsers { get; set; }
     public DbSet<UserActivities> UserActivities { get; set; }
+<<<<<<< Updated upstream
+=======
+    public DbSet<Order> Orders { get; set; }
+
+    public DbSet<ShoppingCart> ShoppingCarts { get; set; }
+
+    public DbSet<CartItem> CartItems { get; set; }
+>>>>>>> Stashed changes
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

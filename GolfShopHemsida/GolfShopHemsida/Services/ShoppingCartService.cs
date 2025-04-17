@@ -27,7 +27,7 @@ namespace GolfShopHemsida.Services
             {
                 throw new InvalidOperationException("User must be logged in to access cart");
             }
-
+            
             // Verify user exists
             var userExists = await _context.Users.AnyAsync(u => u.Id == userId);
             if (!userExists)
