@@ -15,7 +15,6 @@ public class AppDbContext : IdentityDbContext<GolfShopUser>
     public DbSet<Comment> Comments { get; set; }
     public DbSet<FollowUser> FollowUsers { get; set; }
     public DbSet<UserActivities> UserActivities { get; set; }
-    public DbSet<Purchase> Purchases { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
