@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace GolfShopHemsida.Migrations
 {
     /// <inheritdoc />
-    public partial class InitialCreate : Migration
+    public partial class MergeUpdate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -30,10 +30,10 @@ namespace GolfShopHemsida.Migrations
                 columns: table => new
                 {
                     Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
-                    Namn = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Adress = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Telefonnummer = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Betalsätt = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    ProfilePicture = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Namn = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Adress = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Betalsätt = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     UserName = table.Column<string>(type: "nvarchar(256)", maxLength: 256, nullable: true),
                     NormalizedUserName = table.Column<string>(type: "nvarchar(256)", maxLength: 256, nullable: true),
                     Email = table.Column<string>(type: "nvarchar(256)", maxLength: 256, nullable: true),
@@ -52,6 +52,23 @@ namespace GolfShopHemsida.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_AspNetUsers", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Items",
+                columns: table => new
+                {
+                    ItemId = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Description = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Price = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
+                    Stock = table.Column<int>(type: "int", nullable: false),
+                    CreatedAt = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    ImageUrl = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Items", x => x.ItemId);
                 });
 
             migrationBuilder.CreateTable(
@@ -161,12 +178,37 @@ namespace GolfShopHemsida.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "FollowUsers",
+                columns: table => new
+                {
+                    FollowerId = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    FollowedId = table.Column<string>(type: "nvarchar(450)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_FollowUsers", x => new { x.FollowerId, x.FollowedId });
+                    table.ForeignKey(
+                        name: "FK_FollowUsers_AspNetUsers_FollowedId",
+                        column: x => x.FollowedId,
+                        principalTable: "AspNetUsers",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Restrict);
+                    table.ForeignKey(
+                        name: "FK_FollowUsers_AspNetUsers_FollowerId",
+                        column: x => x.FollowerId,
+                        principalTable: "AspNetUsers",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Restrict);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "Posts",
                 columns: table => new
                 {
                     PostId = table.Column<string>(type: "nvarchar(450)", maxLength: 450, nullable: false),
                     Title = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Content = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Category = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     CreatedAt = table.Column<DateTime>(type: "datetime2", nullable: false),
                     GolfShopUserId = table.Column<string>(type: "nvarchar(450)", nullable: false)
                 },
@@ -175,6 +217,28 @@ namespace GolfShopHemsida.Migrations
                     table.PrimaryKey("PK_Posts", x => x.PostId);
                     table.ForeignKey(
                         name: "FK_Posts_AspNetUsers_GolfShopUserId",
+                        column: x => x.GolfShopUserId,
+                        principalTable: "AspNetUsers",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Purchases",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    GolfShopUserId = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    PurchaseDate = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    ProductName = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    TotalAmount = table.Column<decimal>(type: "decimal(18,2)", precision: 18, scale: 2, nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Purchases", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_Purchases_AspNetUsers_GolfShopUserId",
                         column: x => x.GolfShopUserId,
                         principalTable: "AspNetUsers",
                         principalColumn: "Id",
@@ -212,6 +276,40 @@ namespace GolfShopHemsida.Migrations
                         principalTable: "Posts",
                         principalColumn: "PostId",
                         onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "UserActivities",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    ReceiverId = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    Message = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    CreatedAt = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    IsRead = table.Column<bool>(type: "bit", nullable: false),
+                    PostId = table.Column<string>(type: "nvarchar(450)", nullable: true),
+                    CommentId = table.Column<string>(type: "nvarchar(450)", nullable: true)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_UserActivities", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_UserActivities_AspNetUsers_ReceiverId",
+                        column: x => x.ReceiverId,
+                        principalTable: "AspNetUsers",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_UserActivities_Comments_CommentId",
+                        column: x => x.CommentId,
+                        principalTable: "Comments",
+                        principalColumn: "CommentId");
+                    table.ForeignKey(
+                        name: "FK_UserActivities_Posts_PostId",
+                        column: x => x.PostId,
+                        principalTable: "Posts",
+                        principalColumn: "PostId");
                 });
 
             migrationBuilder.CreateIndex(
@@ -269,9 +367,34 @@ namespace GolfShopHemsida.Migrations
                 column: "PostId");
 
             migrationBuilder.CreateIndex(
+                name: "IX_FollowUsers_FollowedId",
+                table: "FollowUsers",
+                column: "FollowedId");
+
+            migrationBuilder.CreateIndex(
                 name: "IX_Posts_GolfShopUserId",
                 table: "Posts",
                 column: "GolfShopUserId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Purchases_GolfShopUserId",
+                table: "Purchases",
+                column: "GolfShopUserId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_UserActivities_CommentId",
+                table: "UserActivities",
+                column: "CommentId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_UserActivities_PostId",
+                table: "UserActivities",
+                column: "PostId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_UserActivities_ReceiverId",
+                table: "UserActivities",
+                column: "ReceiverId");
         }
 
         /// <inheritdoc />
@@ -293,10 +416,22 @@ namespace GolfShopHemsida.Migrations
                 name: "AspNetUserTokens");
 
             migrationBuilder.DropTable(
-                name: "Comments");
+                name: "FollowUsers");
+
+            migrationBuilder.DropTable(
+                name: "Items");
+
+            migrationBuilder.DropTable(
+                name: "Purchases");
+
+            migrationBuilder.DropTable(
+                name: "UserActivities");
 
             migrationBuilder.DropTable(
                 name: "AspNetRoles");
+
+            migrationBuilder.DropTable(
+                name: "Comments");
 
             migrationBuilder.DropTable(
                 name: "Posts");

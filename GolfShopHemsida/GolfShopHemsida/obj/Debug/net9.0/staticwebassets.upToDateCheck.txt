@@ -77,6 +77,7 @@ wwwroot\Images\Bakgrund\bg.jpg
 wwwroot\Images\Bakgrund\golf.png
 wwwroot\Images\Profile_Pictures\52bd35dc-3fef-4101-bcd8-24592315c000.jpg
 wwwroot\Images\Profile_Pictures\7931bf83-0b1a-4140-a04b-e8cbb4a93d34.png
+wwwroot\Images\Profile_Pictures\c459ad6e-2da9-4e19-9fb2-d43bf5f23032.jpg
 wwwroot\Images\Shop\bag.jpg
 wwwroot\Images\Shop\bg.jpg
 wwwroot\Images\Shop\bridgestone.jpg

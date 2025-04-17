@@ -34,6 +34,7 @@ namespace GolfShopHemsida.Pages.Account.Forum
                 .Include(p => p.Comments)
                 .ThenInclude(c => c.User)
                 .Where(p => p.Category == "Evenemang")
+                .OrderByDescending(p => p.CreatedAt)
                 .ToListAsync();
 
             Notifications = await _context.UserActivities
@@ -74,9 +75,9 @@ namespace GolfShopHemsida.Pages.Account.Forum
                 {
                     ReceiverId = followerId,
                     Message = $"{currentUser.Namn} created a new post: {title}",
-                    PostId = post.PostId, 
+                    PostId = post.PostId,
                     CreatedAt = DateTime.Now,
-                    IsRead = false 
+                    IsRead = false
                 };
 
                 _context.UserActivities.Add(activity);
@@ -89,25 +90,27 @@ namespace GolfShopHemsida.Pages.Account.Forum
 
         public async Task<IActionResult> OnPostDeleteThreadAsync(string threadId)
         {
-           
             var post = await _context.Posts
                 .FirstOrDefaultAsync(p => p.PostId == threadId);
 
             if (post == null)
             {
-                return NotFound();  
+                return NotFound();
             }
 
             var currentUser = await _userManager.GetUserAsync(User);
 
             if (post.GolfShopUserId != currentUser.Id)
             {
-                return Forbid();  
+                return Forbid();
             }
-            var userActivities = _context.UserActivities.Where(ua => ua.PostId == post.PostId);
-            _context.UserActivities.RemoveRange(userActivities);
-            _context.Posts.Remove(post);
 
+            var userActivities = _context.UserActivities
+                .Where(ua => ua.PostId == post.PostId);
+
+            _context.UserActivities.RemoveRange(userActivities);
+
+            _context.Posts.Remove(post);
             await _context.SaveChangesAsync();
 
             return RedirectToPage();
@@ -144,8 +147,30 @@ namespace GolfShopHemsida.Pages.Account.Forum
             _context.Comments.Add(comment);
             await _context.SaveChangesAsync();
 
+            var followers = await _context.FollowUsers
+                .Where(f => f.FollowedId == user.Id)
+                .Select(f => f.FollowerId)
+                .ToListAsync();
+
+            foreach (var followerId in followers)
+            {
+                var activity = new UserActivities
+                {
+                    ReceiverId = followerId,
+                    Message = $"{user.Namn} commented on a post.",
+                    CommentId = comment.CommentId,
+                    CreatedAt = DateTime.Now,
+                    IsRead = false
+                };
+
+                _context.UserActivities.Add(activity);
+            }
+
+            await _context.SaveChangesAsync();
+
             return RedirectToPage();
         }
+
 
         public async Task<IActionResult> OnPostDeleteCommentAsync(string commentId)
         {
@@ -162,9 +187,11 @@ namespace GolfShopHemsida.Pages.Account.Forum
                 return Forbid();
             }
 
+            var relatedActivities = _context.UserActivities.Where(ua => ua.CommentId == commentId);
+            _context.UserActivities.RemoveRange(relatedActivities);
             _context.Comments.Remove(comment);
-            await _context.SaveChangesAsync();
 
+            await _context.SaveChangesAsync();
             return RedirectToPage();
         }
     }

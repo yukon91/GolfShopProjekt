@@ -46,7 +46,7 @@ namespace GolfShopHemsida.Pages.Account
             var user = await _userManager.GetUserAsync(User);
             if (user == null)
             {
-                return RedirectToPage("/Identity/Account/Login");
+                return Redirect("/Identity/Account/Login");
             }
 
             var allUsers = _userManager.Users.Where(u => u.Id != user.Id).ToList();
@@ -63,10 +63,20 @@ namespace GolfShopHemsida.Pages.Account
             Followers = _context.FollowUsers.Where(f => f.FollowedId == user.Id).ToList();
             Following = _context.FollowUsers.Where(f => f.FollowerId == user.Id).ToList();
 
-            Notifications = await _context.UserActivities
+            var allNotifications = await _context.UserActivities
+                .Include(n => n.Post)
+                .ThenInclude(p => p.User) 
+                .Include(n => n.Comment)
+                .ThenInclude(c => c.User)  
                 .Where(n => n.ReceiverId == user.Id && !n.IsRead)
                 .OrderByDescending(n => n.CreatedAt)
                 .ToListAsync();
+
+            var followingIds = Following.Select(f => f.FollowedId).ToList();
+            Notifications = allNotifications.Where(n =>
+                (n.Post != null && followingIds.Contains(n.Post.User.Id)) ||
+                (n.Comment != null && followingIds.Contains(n.Comment.User.Id)))
+                .ToList();
 
             Namn = user.Namn;
             Adress = user.Adress;
@@ -154,11 +164,25 @@ namespace GolfShopHemsida.Pages.Account
             if (follow != null)
             {
                 _context.FollowUsers.Remove(follow);
+
+                var notifications = await _context.UserActivities
+                    .Where(n => n.ReceiverId == user.Id && !n.IsRead) 
+                    .ToListAsync();
+
+                foreach (var notification in notifications)
+                {
+                    if (notification.Message.Contains(followId)) 
+                    {
+                        notification.IsRead = true; 
+                    }
+                }
+
                 await _context.SaveChangesAsync();
             }
 
-            return RedirectToPage();
+            return RedirectToPage(); 
         }
+
 
         public async Task<IActionResult> OnPostLogOutAsync()
         {

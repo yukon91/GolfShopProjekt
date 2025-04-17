@@ -31,11 +31,10 @@
                         @if (!string.IsNullOrEmpty(Model.ProfilePicturePath))
                         {
                             <div class="profile-picture-preview">
-                                <img src="@Model.ProfilePicturePath" alt="Profilbild" />
+                                <img src="@Model.ProfilePicturePath" alt="Profilbild"/>
                             </div>
                         }
                     </div>
-
                     <div class="form-fields">
                         <label for="namn"><strong class="strong-lower">Namn:</strong></label>
                         <input type="text" id="namn" asp-for="Namn" required />
@@ -43,8 +42,8 @@
                         <label for="adress"><strong class="strong-lower">Adress:</strong></label>
                         <input type="text" id="adress" asp-for="Adress" required />
 
-                        <label><strong class="strong-lower">E-mail:</strong></label>
-                        <p class="readonly-email">@Model.Email</p>
+                        <label for="email"><strong class="strong-lower">E-mail:</strong></label>
+                        <p>@Model.Email</p>
 
                         <label for="betalsatt"><strong class="strong-lower">Betalsätt:</strong></label>
                         <select id="betalsatt" asp-for="Betalsätt" required>
@@ -52,15 +51,15 @@
                             <option value="Kreditkort">Faktura</option>
                         </select>
                     </div>
-
                     <button type="submit" class="save-button">Spara Ändringar</button>
+
+                    <a href="/Account/OrderHistory" class="order-link">Orderhistorik</a>
                 </form>
             </section>
 
             <section class="section membership">
                 <h2>Medlemskap</h2>
                 <img src="~/Images/Login_Medlem/platinum.png" alt="Platinum Membership" class="membership-img">
-                <button type="button" class="cancel-button">Avsluta Medlemskap</button>
             </section>
 
             <section class="section handicap">
@@ -68,7 +67,7 @@
                 <img src="~/Images/Login_Medlem/nineteen.png" alt="Handikapp 19" class="handicap-img">
             </section>
 
-            <div class="container2">
+            <div class="container2">               
                 <h2 id="forum">Forum</h2>
                 <div class="subjects">
                     <a id="link-button" asp-page="/Account/Forum/Produkter">Produkter</a>
@@ -87,20 +86,32 @@
                         <div class="user-info">
                             <p>@user.Namn</p>
 
-                            @if (Model.Notifications.Any(n => n.ReceiverId == user.Id))
+                            @{
+                                var userNotifications = Model.Notifications
+                                .Where(n =>
+                                (n.Post != null && n.Post.User.Id == user.Id) ||
+                                (n.Comment != null && n.Comment.User.Id == user.Id))
+                                .ToList();
+                            }
+
+                            @if (userNotifications.Any())
                             {
                                 <div class="notifications">
                                     <h4>Notifikationer</h4>
                                     <ul class="notification-list">
-                                        @foreach (var notification in Model.Notifications.Where(n => n.ReceiverId == user.Id))
+                                        @foreach (var notification in userNotifications)
                                         {
                                             <li class="notification-item">
                                                 <p>@notification.Message</p>
-                                                <small>Sent: @notification.CreatedAt.ToString("g")</small>
+                                                <small>Skickad: @notification.CreatedAt.ToString("g")</small>
                                             </li>
                                         }
                                     </ul>
                                 </div>
+                            }
+                            else
+                            {
+                                <p>Inga nya notifikationer.</p>
                             }
 
                             @if (Model.Following.Any(f => f.FollowedId == user.Id))

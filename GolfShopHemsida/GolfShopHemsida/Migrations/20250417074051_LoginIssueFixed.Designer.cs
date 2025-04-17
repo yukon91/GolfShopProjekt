@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace GolfShopHemsida.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250415130638_InitialCreate12")]
-    partial class InitialCreate12
+    [Migration("20250417074051_LoginIssueFixed")]
+    partial class LoginIssueFixed
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -56,6 +56,21 @@ namespace GolfShopHemsida.Migrations
                     b.HasIndex("PostId");
 
                     b.ToTable("Comments");
+                });
+
+            modelBuilder.Entity("GolfShopHemsida.Models.FollowUser", b =>
+                {
+                    b.Property<string>("FollowerId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("FollowedId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("FollowerId", "FollowedId");
+
+                    b.HasIndex("FollowedId");
+
+                    b.ToTable("FollowUsers");
                 });
 
             modelBuilder.Entity("GolfShopHemsida.Models.GolfShopUser", b =>
@@ -135,6 +150,37 @@ namespace GolfShopHemsida.Migrations
                     b.ToTable("AspNetUsers", (string)null);
                 });
 
+            modelBuilder.Entity("GolfShopHemsida.Models.Item", b =>
+                {
+                    b.Property<string>("ItemId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ImageUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<decimal>("Price")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<int>("Stock")
+                        .HasColumnType("int");
+
+                    b.HasKey("ItemId");
+
+                    b.ToTable("Items");
+                });
+
             modelBuilder.Entity("GolfShopHemsida.Models.Post", b =>
                 {
                     b.Property<string>("PostId")
@@ -187,6 +233,7 @@ namespace GolfShopHemsida.Migrations
                         .HasColumnType("datetime2");
 
                     b.Property<decimal>("TotalAmount")
+                        .HasPrecision(18, 2)
                         .HasColumnType("decimal(18,2)");
 
                     b.HasKey("Id");
@@ -194,6 +241,45 @@ namespace GolfShopHemsida.Migrations
                     b.HasIndex("GolfShopUserId");
 
                     b.ToTable("Purchases");
+                });
+
+            modelBuilder.Entity("GolfShopHemsida.Models.UserActivities", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("CommentId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<bool>("IsRead")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Message")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PostId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("ReceiverId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CommentId");
+
+                    b.HasIndex("PostId");
+
+                    b.HasIndex("ReceiverId");
+
+                    b.ToTable("UserActivities");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
@@ -352,6 +438,25 @@ namespace GolfShopHemsida.Migrations
                     b.Navigation("User");
                 });
 
+            modelBuilder.Entity("GolfShopHemsida.Models.FollowUser", b =>
+                {
+                    b.HasOne("GolfShopHemsida.Models.GolfShopUser", "Followed")
+                        .WithMany()
+                        .HasForeignKey("FollowedId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.HasOne("GolfShopHemsida.Models.GolfShopUser", "Follower")
+                        .WithMany()
+                        .HasForeignKey("FollowerId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("Followed");
+
+                    b.Navigation("Follower");
+                });
+
             modelBuilder.Entity("GolfShopHemsida.Models.Post", b =>
                 {
                     b.HasOne("GolfShopHemsida.Models.GolfShopUser", "User")
@@ -372,6 +477,29 @@ namespace GolfShopHemsida.Migrations
                         .IsRequired();
 
                     b.Navigation("User");
+                });
+
+            modelBuilder.Entity("GolfShopHemsida.Models.UserActivities", b =>
+                {
+                    b.HasOne("GolfShopHemsida.Models.Comment", "Comment")
+                        .WithMany()
+                        .HasForeignKey("CommentId");
+
+                    b.HasOne("GolfShopHemsida.Models.Post", "Post")
+                        .WithMany()
+                        .HasForeignKey("PostId");
+
+                    b.HasOne("GolfShopHemsida.Models.GolfShopUser", "Receiver")
+                        .WithMany()
+                        .HasForeignKey("ReceiverId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Comment");
+
+                    b.Navigation("Post");
+
+                    b.Navigation("Receiver");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>

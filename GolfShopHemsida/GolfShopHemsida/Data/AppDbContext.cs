@@ -10,11 +10,11 @@ public class AppDbContext : IdentityDbContext<GolfShopUser>
     {
     }
 
+    public DbSet<Item> Items { get; set; }
     public DbSet<Post> Posts { get; set; }
     public DbSet<Comment> Comments { get; set; }
     public DbSet<FollowUser> FollowUsers { get; set; }
     public DbSet<UserActivities> UserActivities { get; set; }
-
     public DbSet<Purchase> Purchases { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)

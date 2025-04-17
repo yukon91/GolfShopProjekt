@@ -150,7 +150,6 @@ namespace GolfShopHemsida.Migrations
             modelBuilder.Entity("GolfShopHemsida.Models.Item", b =>
                 {
                     b.Property<string>("ItemId")
-                        .HasMaxLength(450)
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<DateTime>("CreatedAt")
@@ -441,7 +440,7 @@ namespace GolfShopHemsida.Migrations
                     b.HasOne("GolfShopHemsida.Models.GolfShopUser", "Followed")
                         .WithMany()
                         .HasForeignKey("FollowedId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.HasOne("GolfShopHemsida.Models.GolfShopUser", "Follower")
@@ -485,8 +484,7 @@ namespace GolfShopHemsida.Migrations
 
                     b.HasOne("GolfShopHemsida.Models.Post", "Post")
                         .WithMany()
-                        .HasForeignKey("PostId")
-                        .OnDelete(DeleteBehavior.Cascade);
+                        .HasForeignKey("PostId");
 
                     b.HasOne("GolfShopHemsida.Models.GolfShopUser", "Receiver")
                         .WithMany()

@@ -5,7 +5,7 @@
 namespace GolfShopHemsida.Migrations
 {
     /// <inheritdoc />
-    public partial class AddItemsTable : Migration
+    public partial class LoginIssueFixed : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
