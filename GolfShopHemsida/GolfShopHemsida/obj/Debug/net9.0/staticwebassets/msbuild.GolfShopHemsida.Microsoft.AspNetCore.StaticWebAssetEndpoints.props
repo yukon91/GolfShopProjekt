@@ -103,6 +103,16 @@
     <StaticWebAssetEndpoint Include="_content/GolfShopHemsida/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
+<<<<<<< HEAD
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9808"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 10:19:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GolfShopHemsida/css/site.is4w0uegj5.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"is4w0uegj5"},{"Name":"integrity","Value":"sha256-Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ="},{"Name":"label","Value":"_content/GolfShopHemsida/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9808"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 10:19:37 GMT"}]]]></ResponseHeaders>
+=======
 <<<<<<< Updated upstream
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ylvWrZIjNgcJUMjzg1be4Fer0k0cp6StK/uQWbjTClg="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9918"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ylvWrZIjNgcJUMjzg1be4Fer0k0cp6StK/uQWbjTClg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 10:27:20 GMT"}]]]></ResponseHeaders>
@@ -122,6 +132,7 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"is4w0uegj5"},{"Name":"integrity","Value":"sha256-Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ="},{"Name":"label","Value":"_content/GolfShopHemsida/css/site.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9808"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 10:15:14 GMT"}]]]></ResponseHeaders>
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GolfShopHemsida/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>

@@ -2933,7 +2933,6 @@ D:\GruppProjektGolf\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\compressed\
 D:\GruppProjektGolf\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\compressed\p41daygs6g-jr2yjfbyqq.gz
 D:\GruppProjektGolf\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\compressed\nnmlvhfx70-a33eoqds6m.gz
 D:\GruppProjektGolf\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\compressed\q0fxynd56s-mfggzzqamv.gz
-D:\GruppProjektGolf\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\compressed\n5qy5b2qxl-l8xg7hb8zv.gz
 D:\GruppProjektGolf\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\compressed\yoekzuwhxk-61n19gt1b8.gz
 D:\GruppProjektGolf\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\compressed\ixau08rywz-jnj2g8id38.gz
 D:\GruppProjektGolf\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\compressed\z6wtjech6j-fr7q2aak1r.gz
@@ -3014,6 +3013,9 @@ D:\GruppProjektGolf\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\refint\Golf
 D:\GruppProjektGolf\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\GolfShopHemsida.pdb
 D:\GruppProjektGolf\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\GolfShopHemsida.genruntimeconfig.cache
 D:\GruppProjektGolf\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\ref\GolfShopHemsida.dll
+<<<<<<< HEAD
+D:\GruppProjektGolf\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\compressed\n5qy5b2qxl-is4w0uegj5.gz
+=======
 <<<<<<< Updated upstream
 C:\Users\Admin\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\GolfShopHemsida.csproj.AssemblyReference.cache
 C:\Users\Admin\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\GolfShopHemsida.GeneratedMSBuildEditorConfig.editorconfig
@@ -3434,4 +3436,8 @@ C:\Users\Admin\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\
 =======
 C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\compressed\nnmlvhfx70-a33eoqds6m.gz
 >>>>>>> Stashed changes
+<<<<<<< HEAD
 C:\Users\oscar\Documents\GitHub\GolfShopProjekt\GolfShopHemsida\GolfShopHemsida\obj\Debug\net9.0\compressed\n5qy5b2qxl-y2aroy9yum.gz
+=======
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
+>>>>>>> aadecc9bfceea6cf85dd4d0e2f499b67ed704b85

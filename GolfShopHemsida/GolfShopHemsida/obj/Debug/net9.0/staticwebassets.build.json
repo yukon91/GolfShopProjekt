@@ -1,10 +1,14 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "Hash": "cflZios3jNYb+/qE12G5envjZGP/dQ2hgy8Rw/OlVxs=",
+=======
 <<<<<<< Updated upstream
   "Hash": "1lLmj26tfbiSRBgH9SdIIRdLeMfSyCvSvBX9094ScwI=",
 =======
   "Hash": "+mh04+D9pAxW4iWGoegwAaaKu/9bFumNBVGvZp2pPOg=",
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
   "Source": "GolfShopHemsida",
   "BasePath": "_content/GolfShopHemsida",
   "Mode": "Default",
@@ -3971,11 +3975,18 @@
       "OriginalItemSpec": "C:\\Users\\Admin\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-is4w0uegj5.gz",
+=======
       "Identity": "C:\\Users\\Admin\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-y2aroy9yum.gz",
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
       "SourceId": "GolfShopHemsida",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GolfShopHemsida",
+<<<<<<< HEAD
+      "RelativePath": "css/site#[.{fingerprint=is4w0uegj5}]?.css.gz",
+=======
       "RelativePath": "css/site#[.{fingerprint=y2aroy9yum}]?.css.gz",
 =======
       "OriginalItemSpec": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
@@ -3988,6 +3999,7 @@
       "BasePath": "_content/GolfShopHemsida",
       "RelativePath": "css/site#[.{fingerprint=is4w0uegj5}]?.css.gz",
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -3997,8 +4009,13 @@
       "RelatedAsset": "C:\\Users\\Admin\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
+<<<<<<< HEAD
+      "Fingerprint": "2boh8q1vjp",
+      "Integrity": "ThVel80raidXp1BDAZayZgPctZyH05+M2fvlr/0bINg=",
+=======
       "Fingerprint": "kp7silmjm2",
       "Integrity": "+ANnEMyzTsucDq7F+G8UA4J/ZqZDuaOBIrrjcPHnzoE=",
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Admin\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\site.css"
@@ -6826,6 +6843,10 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+<<<<<<< HEAD
+      "Fingerprint": "is4w0uegj5",
+      "Integrity": "Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ=",
+=======
 <<<<<<< Updated upstream
       "Fingerprint": "y2aroy9yum",
       "Integrity": "ylvWrZIjNgcJUMjzg1be4Fer0k0cp6StK/uQWbjTClg=",
@@ -6833,6 +6854,7 @@
       "Fingerprint": "is4w0uegj5",
       "Integrity": "Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ=",
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -11097,20 +11119,28 @@
     },
     {
       "Route": "css/site.css",
+<<<<<<< HEAD
+      "AssetFile": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-is4w0uegj5.gz",
+=======
 <<<<<<< Updated upstream
       "AssetFile": "C:\\Users\\Admin\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-y2aroy9yum.gz",
 =======
       "AssetFile": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-is4w0uegj5.gz",
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
+<<<<<<< HEAD
+          "Quality": "0.000350877193"
+=======
 <<<<<<< Updated upstream
           "Quality": "0.000345542502"
 =======
           "Quality": "0.000350877193"
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         }
       ],
       "ResponseHeaders": [
@@ -11120,6 +11150,17 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
+          "Value": "2849"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ThVel80raidXp1BDAZayZgPctZyH05+M2fvlr/0bINg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 10:19:37 GMT"
+=======
 <<<<<<< Updated upstream
           "Value": "2893"
         },
@@ -11141,6 +11182,7 @@
           "Name": "Last-Modified",
           "Value": "Thu, 17 Apr 2025 10:15:14 GMT"
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         },
         {
           "Name": "Cache-Control",
@@ -11160,21 +11202,29 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "W/\"Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ=\""
+=======
 <<<<<<< Updated upstream
           "Value": "W/\"ylvWrZIjNgcJUMjzg1be4Fer0k0cp6StK/uQWbjTClg=\""
 =======
           "Value": "W/\"Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ=\""
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
+          "Value": "sha256-Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ="
+=======
 <<<<<<< Updated upstream
           "Value": "sha256-ylvWrZIjNgcJUMjzg1be4Fer0k0cp6StK/uQWbjTClg="
 =======
           "Value": "sha256-Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ="
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         }
       ]
     },
@@ -11193,11 +11243,15 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
+          "Value": "9808"
+=======
 <<<<<<< Updated upstream
           "Value": "9918"
 =======
           "Value": "9808"
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         },
         {
           "Name": "Content-Type",
@@ -11205,6 +11259,13 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "\"Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 10:19:37 GMT"
+=======
 <<<<<<< Updated upstream
           "Value": "\"ylvWrZIjNgcJUMjzg1be4Fer0k0cp6StK/uQWbjTClg=\""
         },
@@ -11218,6 +11279,7 @@
           "Name": "Last-Modified",
           "Value": "Thu, 17 Apr 2025 10:15:14 GMT"
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         },
         {
           "Name": "Cache-Control",
@@ -11227,21 +11289,29 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
+          "Value": "sha256-Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ="
+=======
 <<<<<<< Updated upstream
           "Value": "sha256-ylvWrZIjNgcJUMjzg1be4Fer0k0cp6StK/uQWbjTClg="
 =======
           "Value": "sha256-Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ="
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
+<<<<<<< HEAD
+      "AssetFile": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-is4w0uegj5.gz",
+=======
 <<<<<<< Updated upstream
       "AssetFile": "C:\\Users\\Admin\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-y2aroy9yum.gz",
 =======
       "AssetFile": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-is4w0uegj5.gz",
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11250,11 +11320,15 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
+          "Value": "2849"
+=======
 <<<<<<< Updated upstream
           "Value": "2893"
 =======
           "Value": "2849"
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         },
         {
           "Name": "Content-Type",
@@ -11262,6 +11336,13 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "\"ThVel80raidXp1BDAZayZgPctZyH05+M2fvlr/0bINg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 10:19:37 GMT"
+=======
 <<<<<<< Updated upstream
           "Value": "\"+ANnEMyzTsucDq7F+G8UA4J/ZqZDuaOBIrrjcPHnzoE=\""
         },
@@ -11275,6 +11356,7 @@
           "Name": "Last-Modified",
           "Value": "Thu, 17 Apr 2025 10:15:14 GMT"
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         },
         {
           "Name": "Cache-Control",
@@ -11292,15 +11374,23 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
+          "Value": "sha256-ThVel80raidXp1BDAZayZgPctZyH05+M2fvlr/0bINg="
+=======
 <<<<<<< Updated upstream
           "Value": "sha256-+ANnEMyzTsucDq7F+G8UA4J/ZqZDuaOBIrrjcPHnzoE="
 =======
           "Value": "sha256-ThVel80raidXp1BDAZayZgPctZyH05+M2fvlr/0bINg="
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         }
       ]
     },
     {
+<<<<<<< HEAD
+      "Route": "css/site.is4w0uegj5.css",
+      "AssetFile": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-is4w0uegj5.gz",
+=======
 <<<<<<< Updated upstream
       "Route": "css/site.y2aroy9yum.css",
       "AssetFile": "C:\\Users\\Admin\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-y2aroy9yum.gz",
@@ -11308,15 +11398,20 @@
       "Route": "css/site.is4w0uegj5.css",
       "AssetFile": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-is4w0uegj5.gz",
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
+<<<<<<< HEAD
+          "Quality": "0.000350877193"
+=======
 <<<<<<< Updated upstream
           "Quality": "0.000345542502"
 =======
           "Quality": "0.000350877193"
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         }
       ],
       "ResponseHeaders": [
@@ -11326,6 +11421,17 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
+          "Value": "2849"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ThVel80raidXp1BDAZayZgPctZyH05+M2fvlr/0bINg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 10:19:37 GMT"
+=======
 <<<<<<< Updated upstream
           "Value": "2893"
         },
@@ -11347,6 +11453,7 @@
           "Name": "Last-Modified",
           "Value": "Thu, 17 Apr 2025 10:15:14 GMT"
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         },
         {
           "Name": "Cache-Control",
@@ -11366,21 +11473,29 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "W/\"Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ=\""
+=======
 <<<<<<< Updated upstream
           "Value": "W/\"ylvWrZIjNgcJUMjzg1be4Fer0k0cp6StK/uQWbjTClg=\""
 =======
           "Value": "W/\"Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ=\""
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
+<<<<<<< HEAD
+          "Value": "is4w0uegj5"
+=======
 <<<<<<< Updated upstream
           "Value": "y2aroy9yum"
 =======
           "Value": "is4w0uegj5"
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         },
         {
           "Name": "label",
@@ -11388,15 +11503,23 @@
         },
         {
           "Name": "integrity",
+<<<<<<< HEAD
+          "Value": "sha256-Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ="
+=======
 <<<<<<< Updated upstream
           "Value": "sha256-ylvWrZIjNgcJUMjzg1be4Fer0k0cp6StK/uQWbjTClg="
 =======
           "Value": "sha256-Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ="
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         }
       ]
     },
     {
+<<<<<<< HEAD
+      "Route": "css/site.is4w0uegj5.css",
+      "AssetFile": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\site.css",
+=======
 <<<<<<< Updated upstream
       "Route": "css/site.y2aroy9yum.css",
       "AssetFile": "C:\\Users\\Admin\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\site.css",
@@ -11404,6 +11527,7 @@
       "Route": "css/site.is4w0uegj5.css",
       "AssetFile": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\wwwroot\\css\\site.css",
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11412,11 +11536,15 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
+          "Value": "9808"
+=======
 <<<<<<< Updated upstream
           "Value": "9918"
 =======
           "Value": "9808"
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         },
         {
           "Name": "Content-Type",
@@ -11424,6 +11552,13 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "\"Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 10:19:37 GMT"
+=======
 <<<<<<< Updated upstream
           "Value": "\"ylvWrZIjNgcJUMjzg1be4Fer0k0cp6StK/uQWbjTClg=\""
         },
@@ -11437,6 +11572,7 @@
           "Name": "Last-Modified",
           "Value": "Thu, 17 Apr 2025 10:15:14 GMT"
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         },
         {
           "Name": "Cache-Control",
@@ -11446,11 +11582,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
+<<<<<<< HEAD
+          "Value": "is4w0uegj5"
+=======
 <<<<<<< Updated upstream
           "Value": "y2aroy9yum"
 =======
           "Value": "is4w0uegj5"
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         },
         {
           "Name": "label",
@@ -11458,15 +11598,23 @@
         },
         {
           "Name": "integrity",
+<<<<<<< HEAD
+          "Value": "sha256-Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ="
+=======
 <<<<<<< Updated upstream
           "Value": "sha256-ylvWrZIjNgcJUMjzg1be4Fer0k0cp6StK/uQWbjTClg="
 =======
           "Value": "sha256-Qvijh4Zvuxt1jC5zSRCZayyjZKSM2p0hTIxMANrryyQ="
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         }
       ]
     },
     {
+<<<<<<< HEAD
+      "Route": "css/site.is4w0uegj5.css.gz",
+      "AssetFile": "D:\\GruppProjektGolf\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-is4w0uegj5.gz",
+=======
 <<<<<<< Updated upstream
       "Route": "css/site.y2aroy9yum.css.gz",
       "AssetFile": "C:\\Users\\Admin\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-y2aroy9yum.gz",
@@ -11474,6 +11622,7 @@
       "Route": "css/site.is4w0uegj5.css.gz",
       "AssetFile": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\obj\\Debug\\net9.0\\compressed\\n5qy5b2qxl-is4w0uegj5.gz",
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11482,11 +11631,15 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
+          "Value": "2849"
+=======
 <<<<<<< Updated upstream
           "Value": "2893"
 =======
           "Value": "2849"
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         },
         {
           "Name": "Content-Type",
@@ -11494,6 +11647,13 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "\"ThVel80raidXp1BDAZayZgPctZyH05+M2fvlr/0bINg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 10:19:37 GMT"
+=======
 <<<<<<< Updated upstream
           "Value": "\"+ANnEMyzTsucDq7F+G8UA4J/ZqZDuaOBIrrjcPHnzoE=\""
         },
@@ -11507,6 +11667,7 @@
           "Name": "Last-Modified",
           "Value": "Thu, 17 Apr 2025 10:15:14 GMT"
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         },
         {
           "Name": "Cache-Control",
@@ -11524,11 +11685,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
+<<<<<<< HEAD
+          "Value": "is4w0uegj5"
+=======
 <<<<<<< Updated upstream
           "Value": "y2aroy9yum"
 =======
           "Value": "is4w0uegj5"
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         },
         {
           "Name": "label",
@@ -11536,11 +11701,15 @@
         },
         {
           "Name": "integrity",
+<<<<<<< HEAD
+          "Value": "sha256-ThVel80raidXp1BDAZayZgPctZyH05+M2fvlr/0bINg="
+=======
 <<<<<<< Updated upstream
           "Value": "sha256-+ANnEMyzTsucDq7F+G8UA4J/ZqZDuaOBIrrjcPHnzoE="
 =======
           "Value": "sha256-ThVel80raidXp1BDAZayZgPctZyH05+M2fvlr/0bINg="
 >>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
         }
       ]
     },

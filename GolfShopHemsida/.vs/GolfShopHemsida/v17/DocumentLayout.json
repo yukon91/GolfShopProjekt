@@ -3,11 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\",
   "Documents": [
     {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|d:\\gruppprojektgolf\\golfshophemsida\\golfshophemsida\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|solutionrelative:golfshophemsida\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|d:\\gruppprojektgolf\\golfshophemsida\\golfshophemsida\\pages\\account\\orders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+<<<<<<< Updated upstream
+      "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|c:\\users\\oscar\\documents\\github\\golfshopprojekt\\golfshophemsida\\golfshophemsida\\pages\\account\\orders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|solutionrelative:golfshophemsida\\pages\\account\\orders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\Migrations\\20250417103119_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GolfShopHemsida\\Migrations\\20250417103119_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
+    },
+    {
+>>>>>>> aadecc9bfceea6cf85dd4d0e2f499b67ed704b85
       "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|c:\\users\\oscar\\documents\\github\\golfshopprojekt\\golfshophemsida\\golfshophemsida\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|solutionrelative:golfshophemsida\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|c:\\users\\oscar\\documents\\github\\golfshopprojekt\\golfshophemsida\\golfshophemsida\\pages\\account\\orders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
       "RelativeMoniker": "D:0:0:{E422A359-E8CA-4E80-8896-E191C6098EAC}|GolfShopHemsida\\GolfShopHemsida.csproj|solutionrelative:golfshophemsida\\pages\\account\\orders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -73,7 +93,31 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
+=======
+<<<<<<< HEAD
+              "DocumentIndex": 1,
+=======
+              "DocumentIndex": 0,
+<<<<<<< Updated upstream
+=======
+              "Title": "20250417103119_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\Migrations\\20250417103119_InitialCreate.cs",
+              "RelativeDocumentMoniker": "GolfShopHemsida\\Migrations\\20250417103119_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\Migrations\\20250417103119_InitialCreate.cs",
+              "RelativeToolTip": "GolfShopHemsida\\Migrations\\20250417103119_InitialCreate.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:31:19.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+>>>>>>> Stashed changes
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
+>>>>>>> aadecc9bfceea6cf85dd4d0e2f499b67ed704b85
               "Title": "Orders.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\Pages\\Account\\Orders.cshtml.cs",
               "RelativeDocumentMoniker": "GolfShopHemsida\\Pages\\Account\\Orders.cshtml.cs",
@@ -81,8 +125,16 @@
               "RelativeToolTip": "GolfShopHemsida\\Pages\\Account\\Orders.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+              "WhenOpened": "2025-04-17T10:23:21.119Z"
+=======
+<<<<<<< Updated upstream
+>>>>>>> aadecc9bfceea6cf85dd4d0e2f499b67ed704b85
               "WhenOpened": "2025-04-17T10:41:47.066Z",
               "EditorCaption": ""
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
             },
             {
               "$type": "Document",
@@ -92,7 +144,16 @@
               "RelativeDocumentMoniker": "GolfShopHemsida\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\oscar\\Documents\\GitHub\\GolfShopProjekt\\GolfShopHemsida\\GolfShopHemsida\\Data\\AppDbContext.cs",
               "RelativeToolTip": "GolfShopHemsida\\Data\\AppDbContext.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+=======
+<<<<<<< HEAD
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+=======
+<<<<<<< Updated upstream
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+>>>>>>> 511ef5806b9ac5f9ea4e2aca0e932d35a7e69e27
+>>>>>>> aadecc9bfceea6cf85dd4d0e2f499b67ed704b85
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T10:41:47.234Z",
               "EditorCaption": ""
